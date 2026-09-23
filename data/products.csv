@@ -1,0 +1,336 @@
+product_id,SKU,product_name,weight_in_grams,product_cost,manufacturer,is_active,category_id
+1,P0000001,Koszulka Bawełniana ActiveWear Premium,148,29.77,ActiveWear,True,2
+2,P0000002,Czapka Zimowa FashionLine Basic,81,37.03,FashionLine,True,2
+3,P0000003,Encyklopedia Dziecięca MediaRead Premium,1059,75.36,MediaRead,True,4
+4,P0000004,Patelnia Teﬂonowa Lumina Classic,759,53.3,Lumina,True,3
+5,P0000005,Spodnie Jeans UrbanStyle Pro,633,222.55,UrbanStyle,True,2
+6,P0000006,Smartwatch ApexTech Pro,88,326.08,ApexTech,True,1
+7,P0000007,Szczoteczka Soniczna DermaCare V2,217,113.75,DermaCare,True,6
+8,P0000008,Mata do Jogi IronFit Pro,1089,58.63,IronFit,True,5
+9,P0000009,Odkurzacz Pionowy Lumina Premium,3093,916.73,Lumina,True,3
+10,P0000010,Ręcznik Bawełniany CookMaster Eco,394,27.15,CookMaster,True,3
+11,P0000011,Krem Nawilżający DermaCare Basic,183,64.43,DermaCare,True,6
+12,P0000012,Kurtka Zimowa CottonRich V2,1222,290.57,CottonRich,False,2
+13,P0000013,Puzzle 1000 el. PlayLand Ultra,535,31.28,PlayLand,True,7
+14,P0000014,Auto Zdalnie Sterowane PlayLand Plus,724,249.49,PlayLand,True,7
+15,P0000015,Wideorejestrator AutoDrive Pro,239,358.43,AutoDrive,False,8
+16,P0000016,Czapka Zimowa UrbanStyle Lite,129,54.1,UrbanStyle,True,2
+17,P0000017,Bluza z Kapturem ActiveWear Pro,550,129.56,ActiveWear,False,2
+18,P0000018,Monitor ApexTech Ultra,4579,2316.52,ApexTech,True,1
+19,P0000019,Powieść Kryminalna PapierowyŚwiat Ultra,388,53.37,PapierowyŚwiat,True,4
+20,P0000020,Balsam do Ciała BioBeauty Pro,437,33.25,BioBeauty,True,6
+21,P0000021,Książka IT BookWorld Lite,340,35.14,BookWorld,False,4
+22,P0000022,Buty Sportowe DenimCo Edition 2024,986,478.74,DenimCo,True,2
+23,P0000023,Plecak Turystyczny RunMaster Advanced,816,331.52,RunMaster,True,5
+24,P0000024,Piłka do Piłki Nożnej SportPro Eco,433,89.66,SportPro,True,5
+25,P0000025,Książka IT PapierowyŚwiat Basic,601,63.24,PapierowyŚwiat,True,4
+26,P0000026,Słuchawki TechCorp Premium,74,731.9,TechCorp,True,1
+27,P0000027,Kurtka Zimowa ActiveWear Edition 2024,1397,291.4,ActiveWear,True,2
+28,P0000028,Uchwyt Samochodowy DriveSafe Advanced,104,20.19,DriveSafe,False,8
+29,P0000029,Balsam do Ciała NaturePure Eco,421,48.62,NaturePure,True,6
+30,P0000030,Myszka Bezprzewodowa VoltPower Pro,101,99.39,VoltPower,False,1
+31,P0000031,Patelnia Teﬂonowa CookMaster Classic,1073,56.23,CookMaster,True,3
+32,P0000032,Zestaw Kluczy Nasadowych AutoDrive Basic,4671,449.75,AutoDrive,True,8
+33,P0000033,Kurtka Zimowa DenimCo Advanced,1397,430.31,DenimCo,False,2
+34,P0000034,Laptop ElectroMax Basic,1899,3591.22,ElectroMax,False,1
+35,P0000035,Piłka do Piłki Nożnej RunMaster Edition 2024,445,93.53,RunMaster,True,5
+36,P0000036,Hantle Żeliwne FitZone Lite,8027,122.17,FitZone,True,5
+37,P0000037,Smartfon ApexTech Eco,214,4201.73,ApexTech,True,1
+38,P0000038,Tablet TechCorp Ultra,385,2147.09,TechCorp,True,1
+39,P0000039,Klocki Konstrukcyjne SmartToys Premium,1585,228.36,SmartToys,True,7
+40,P0000040,Puzzle 1000 el. SmartToys Lite,667,39.24,SmartToys,True,7
+41,P0000041,Encyklopedia Dziecięca PapierowyŚwiat Premium,871,63.75,PapierowyŚwiat,True,4
+42,P0000042,Prostownik Akumulatora AutoDrive Basic,1938,185.6,AutoDrive,True,8
+43,P0000043,Kurtka Zimowa CottonRich Classic,1035,665.29,CottonRich,True,2
+44,P0000044,Komiks Marvel PapierowyŚwiat Ultra,424,70.86,PapierowyŚwiat,True,4
+45,P0000045,Tablet VoltPower Edition 2024,403,3041.22,VoltPower,True,1
+46,P0000046,Mata do Jogi FitZone V2,1266,48.21,FitZone,True,5
+47,P0000047,Encyklopedia Dziecięca PapierowyŚwiat Premium,870,70.32,PapierowyŚwiat,True,4
+48,P0000048,Słuchawki ElectroMax Classic,62,82.55,ElectroMax,True,1
+49,P0000049,Hantle Żeliwne OutdoorPeak Max,7780,102.71,OutdoorPeak,True,5
+50,P0000050,Spodnie Jeans DenimCo Max,468,220.23,DenimCo,True,2
+51,P0000051,Lalka Przegubowa ToyWorld Classic,386,146.87,ToyWorld,True,7
+52,P0000052,Szampon Wzmacniający DermaCare Edition 2024,376,23.67,DermaCare,False,6
+53,P0000053,Ręcznik Bawełniany CookMaster Ultra,411,16.12,CookMaster,True,3
+54,P0000054,Puzzle 1000 el. KidsFun Classic,481,60.43,KidsFun,True,7
+55,P0000055,Klocki Konstrukcyjne PlayLand Premium,808,294.98,PlayLand,False,7
+56,P0000056,Perfumy 50ml DermaCare Premium,156,324.21,DermaCare,False,6
+57,P0000057,Perfumy 50ml BioBeauty Classic,239,317.35,BioBeauty,False,6
+58,P0000058,Krem Nawilżający BioBeauty Classic,102,97.57,BioBeauty,True,6
+59,P0000059,Słuchawki ApexTech Advanced,216,604.55,ApexTech,True,1
+60,P0000060,Auto Zdalnie Sterowane SmartToys Pro,894,230.91,SmartToys,True,7
+61,P0000061,Mata do Jogi OutdoorPeak Basic,1232,113.67,OutdoorPeak,True,5
+62,P0000062,Balsam do Ciała BioBeauty Edition 2024,435,31.87,BioBeauty,True,6
+63,P0000063,Bluza z Kapturem CottonRich Classic,609,112.19,CottonRich,True,2
+64,P0000064,Ręcznik Bawełniany ComfortHome Edition 2024,394,45.48,ComfortHome,True,3
+65,P0000065,Piłka do Piłki Nożnej RunMaster Basic,419,71.56,RunMaster,False,5
+66,P0000066,Balsam do Ciała NaturePure Eco,372,26.98,NaturePure,False,6
+67,P0000067,Zestaw Garnków Lumina Max,5719,423.81,Lumina,True,3
+68,P0000068,Kurtka Zimowa ActiveWear Premium,1725,283.55,ActiveWear,True,2
+69,P0000069,Powerbank ElectroMax Lite,237,141.08,ElectroMax,True,1
+70,P0000070,Pluszowy Miś 30cm PlayLand Premium,187,52.8,PlayLand,True,7
+71,P0000071,Czapka Zimowa DenimCo Ultra,136,50.55,DenimCo,True,2
+72,P0000072,Pasek Skórzany DenimCo Eco,285,128.91,DenimCo,True,2
+73,P0000073,Zestaw Kluczy Nasadowych TurboClean Advanced,5402,417.4,TurboClean,False,8
+74,P0000074,Zestaw Noży ComfortHome Classic,1306,261.57,ComfortHome,True,3
+75,P0000075,Zestaw Kosmetyków Auto CarPro Classic,1700,48.52,CarPro,True,8
+76,P0000076,Komiks Marvel PapierowyŚwiat Plus,476,29.43,PapierowyŚwiat,True,4
+77,P0000077,Album Fotograficzny BookWorld V2,1238,56.42,BookWorld,False,4
+78,P0000078,Szczoteczka Soniczna NaturePure Advanced,215,162.05,NaturePure,False,6
+79,P0000079,Auto Zdalnie Sterowane ToyWorld Lite,889,150.63,ToyWorld,True,7
+80,P0000080,Piłka do Piłki Nożnej OutdoorPeak Max,447,120.81,OutdoorPeak,True,5
+81,P0000081,Uchwyt Samochodowy MotorParts Advanced,142,16.6,MotorParts,True,8
+82,P0000082,Puzzle 1000 el. KidsFun Eco,465,69.13,KidsFun,True,7
+83,P0000083,Auto Zdalnie Sterowane SmartToys Edition 2024,527,75.95,SmartToys,False,7
+84,P0000084,Zestaw Noży CookMaster Basic,1332,150.98,CookMaster,True,3
+85,P0000085,Prostownik Akumulatora MotorParts Advanced,1569,207.84,MotorParts,False,8
+86,P0000086,Mata do Jogi OutdoorPeak Basic,1467,80.85,OutdoorPeak,True,5
+87,P0000087,Encyklopedia Dziecięca Wydawnictwo IT Edition 2024,641,85.25,Wydawnictwo IT,True,4
+88,P0000088,Książka IT BookWorld Premium,364,58.41,BookWorld,True,4
+89,P0000089,Album Fotograficzny PapierowyŚwiat Plus,1143,110.59,PapierowyŚwiat,True,4
+90,P0000090,Młynek do Kawy HomeTech Lite,626,189.33,HomeTech,False,3
+91,P0000091,Puzzle 1000 el. KidsFun Pro,703,56.08,KidsFun,True,7
+92,P0000092,Bluza z Kapturem CottonRich Pro,689,185.22,CottonRich,True,2
+93,P0000093,Puzzle 1000 el. FunBlocks Pro,659,54.14,FunBlocks,True,7
+94,P0000094,Pluszowy Miś 30cm ToyWorld Advanced,395,38.11,ToyWorld,False,7
+95,P0000095,Patelnia Teﬂonowa CookMaster V2,1134,117.07,CookMaster,True,3
+96,P0000096,Olej Silnikowy 4L DriveSafe V2,3637,131.9,DriveSafe,True,8
+97,P0000097,Bluza z Kapturem UrbanStyle Premium,637,151.18,UrbanStyle,False,2
+98,P0000098,Krem Nawilżający NaturePure Plus,103,85.94,NaturePure,True,6
+99,P0000099,Rower Górski SportPro Lite,13263,3034.11,SportPro,True,5
+100,P0000100,Kurtka Zimowa UrbanStyle Eco,1468,574.25,UrbanStyle,False,2
+101,P0000101,Olej Silnikowy 4L AutoDrive Pro,3650,118.81,AutoDrive,True,8
+102,P0000102,Bidon Sportowy RunMaster Plus,221,34.37,RunMaster,True,5
+103,P0000103,Puzzle 1000 el. SmartToys Plus,580,56.63,SmartToys,True,7
+104,P0000104,Rower Górski IronFit Pro,12577,2241.31,IronFit,True,5
+105,P0000105,Powieść Kryminalna MediaRead Classic,435,40.64,MediaRead,True,4
+106,P0000106,Kurtka Zimowa ActiveWear Premium,1269,273.31,ActiveWear,True,2
+107,P0000107,Młynek do Kawy HomeTech Basic,1166,93.82,HomeTech,True,3
+108,P0000108,Wideorejestrator AutoDrive Lite,272,298.37,AutoDrive,False,8
+109,P0000109,Szampon Wzmacniający BioBeauty Classic,472,15.76,BioBeauty,True,6
+110,P0000110,Pluszowy Miś 30cm ToyWorld Lite,311,54.32,ToyWorld,True,7
+111,P0000111,Młynek do Kawy HomeTech Premium,721,133.71,HomeTech,False,3
+112,P0000112,Podręcznik Językowy MediaRead Eco,576,57.3,MediaRead,False,4
+113,P0000113,Plecak Turystyczny RunMaster Basic,1224,339.63,RunMaster,True,5
+114,P0000114,Encyklopedia Dziecięca BookWorld Classic,683,49.42,BookWorld,True,4
+115,P0000115,Buty Sportowe FashionLine Advanced,961,375.75,FashionLine,False,2
+116,P0000116,Mata do Jogi IronFit Classic,1423,59.03,IronFit,False,5
+117,P0000117,Kurtka Zimowa ActiveWear Edition 2024,1503,523.82,ActiveWear,True,2
+118,P0000118,Klocki Konstrukcyjne SmartToys Premium,1726,94.7,SmartToys,True,7
+119,P0000119,Zestaw Garnków HomeTech Ultra,6246,267.65,HomeTech,True,3
+120,P0000120,Wideorejestrator DriveSafe V2,277,385.9,DriveSafe,True,8
+121,P0000121,Olej Silnikowy 4L AutoDrive Lite,3520,205.62,AutoDrive,True,8
+122,P0000122,Mata do Jogi FitZone Premium,1390,106.06,FitZone,True,5
+123,P0000123,Plecak Turystyczny FitZone Ultra,1081,224.93,FitZone,False,5
+124,P0000124,Hantle Żeliwne RunMaster Advanced,7200,168.42,RunMaster,True,5
+125,P0000125,Prostownik Akumulatora DriveSafe Plus,1657,193.92,DriveSafe,True,8
+126,P0000126,Balsam do Ciała NaturePure Classic,369,57.7,NaturePure,True,6
+127,P0000127,Wideorejestrator MotorParts Classic,282,164.05,MotorParts,False,8
+128,P0000128,Tablet ElectroMax Advanced,377,1087.71,ElectroMax,True,1
+129,P0000129,Zestaw Kosmetyków Auto DriveSafe Basic,1216,69.38,DriveSafe,True,8
+130,P0000130,Piłka do Piłki Nożnej OutdoorPeak Pro,401,147.05,OutdoorPeak,True,5
+131,P0000131,Młynek do Kawy EcoLiving Basic,1165,111.2,EcoLiving,True,3
+132,P0000132,Pasek Skórzany FashionLine Edition 2024,189,84.85,FashionLine,True,2
+133,P0000133,Piłka do Piłki Nożnej OutdoorPeak Eco,415,90.25,OutdoorPeak,True,5
+134,P0000134,Lalka Przegubowa SmartToys Max,582,144.31,SmartToys,True,7
+135,P0000135,Piłka do Piłki Nożnej SportPro Max,417,130.26,SportPro,True,5
+136,P0000136,Plecak Turystyczny RunMaster Edition 2024,1101,314.97,RunMaster,False,5
+137,P0000137,Prostownik Akumulatora MotorParts Max,2112,144.13,MotorParts,True,8
+138,P0000138,Encyklopedia Dziecięca BookWorld Lite,992,54.01,BookWorld,False,4
+139,P0000139,Klawiatura Mech. ElectroMax V2,890,293.04,ElectroMax,True,1
+140,P0000140,Wideorejestrator CarPro Max,447,344.27,CarPro,True,8
+141,P0000141,Wideorejestrator TurboClean Eco,203,394.53,TurboClean,False,8
+142,P0000142,Zestaw Garnków ComfortHome Classic,4386,419.16,ComfortHome,False,3
+143,P0000143,Skarpetki 3-pack CottonRich Advanced,120,33.8,CottonRich,False,2
+144,P0000144,Głośnik Bluetooth TechCorp Premium,888,698.43,TechCorp,True,1
+145,P0000145,Klocki Konstrukcyjne ToyWorld Eco,740,258.2,ToyWorld,True,7
+146,P0000146,Klawiatura Mech. TechCorp Classic,867,287.42,TechCorp,True,1
+147,P0000147,Podręcznik Językowy MediaRead Lite,699,94.44,MediaRead,True,4
+148,P0000148,Zestaw Garnków EcoLiving Advanced,5538,447.9,EcoLiving,False,3
+149,P0000149,Ręcznik Bawełniany ComfortHome Edition 2024,330,35.68,ComfortHome,True,3
+150,P0000150,Prostownik Akumulatora TurboClean Ultra,1151,155.09,TurboClean,True,8
+151,P0000151,Bidon Sportowy OutdoorPeak V2,164,30.99,OutdoorPeak,True,5
+152,P0000152,Album Fotograficzny MediaRead Pro,1285,88.14,MediaRead,True,4
+153,P0000153,Bidon Sportowy SportPro Basic,201,24.61,SportPro,True,5
+154,P0000154,Prostownik Akumulatora CarPro Lite,1721,117.23,CarPro,True,8
+155,P0000155,Bidon Sportowy IronFit Edition 2024,124,46.62,IronFit,True,5
+156,P0000156,Piłka do Piłki Nożnej FitZone Lite,423,120.56,FitZone,True,5
+157,P0000157,Rower Górski OutdoorPeak Ultra,12644,1636.13,OutdoorPeak,True,5
+158,P0000158,Hantle Żeliwne SportPro Eco,9924,167.1,SportPro,True,5
+159,P0000159,Pasek Skórzany FashionLine Ultra,207,117.41,FashionLine,False,2
+160,P0000160,Krem Nawilżający NaturePure Basic,113,92.07,NaturePure,False,6
+161,P0000161,Serum do Twarzy GlowUp Lite,108,154.25,GlowUp,True,6
+162,P0000162,Kurtka Zimowa UrbanStyle Basic,1534,639.8,UrbanStyle,True,2
+163,P0000163,Encyklopedia Dziecięca Wydawnictwo IT Edition 2024,1075,94.56,Wydawnictwo IT,True,4
+164,P0000164,Klocki Konstrukcyjne KidsFun Basic,476,141.31,KidsFun,False,7
+165,P0000165,Spodnie Jeans DenimCo Max,519,139.96,DenimCo,True,2
+166,P0000166,Auto Zdalnie Sterowane KidsFun Advanced,1170,78.81,KidsFun,False,7
+167,P0000167,Gra Planszowa ToyWorld V2,1358,83.02,ToyWorld,False,7
+168,P0000168,Komiks Marvel Wydawnictwo IT Edition 2024,388,54.95,Wydawnictwo IT,True,4
+169,P0000169,Myszka Bezprzewodowa VoltPower Premium,85,334.19,VoltPower,False,1
+170,P0000170,Kurtka Zimowa CottonRich Basic,951,589.13,CottonRich,True,2
+171,P0000171,Ręcznik Bawełniany HomeTech Max,306,41.39,HomeTech,True,3
+172,P0000172,Szampon Wzmacniający AromaFit Basic,420,40.33,AromaFit,True,6
+173,P0000173,Młynek do Kawy CookMaster Pro,626,69.77,CookMaster,True,3
+174,P0000174,Podręcznik Językowy PapierowyŚwiat Basic,439,54.9,PapierowyŚwiat,True,4
+175,P0000175,Auto Zdalnie Sterowane ToyWorld V2,565,150.49,ToyWorld,True,7
+176,P0000176,Pasek Skórzany CottonRich Premium,161,105.45,CottonRich,True,2
+177,P0000177,Zestaw Kosmetyków Auto AutoDrive Basic,1780,133.2,AutoDrive,False,8
+178,P0000178,Pasek Skórzany UrbanStyle Pro,170,68.99,UrbanStyle,True,2
+179,P0000179,Buty Sportowe ActiveWear Lite,1099,319.34,ActiveWear,True,2
+180,P0000180,Auto Zdalnie Sterowane SmartToys Classic,964,156.05,SmartToys,False,7
+181,P0000181,Spodnie Jeans CottonRich V2,560,147.41,CottonRich,True,2
+182,P0000182,Gra Planszowa PlayLand Advanced,1451,172.68,PlayLand,True,7
+183,P0000183,Gra Planszowa FunBlocks Plus,912,165.19,FunBlocks,False,7
+184,P0000184,Spodnie Jeans FashionLine Pro,671,87.38,FashionLine,True,2
+185,P0000185,Czajnik Elektryczny EcoLiving Max,1275,89.5,EcoLiving,True,3
+186,P0000186,Gra Planszowa PlayLand V2,705,214.47,PlayLand,True,7
+187,P0000187,Krem Nawilżający AromaFit Max,107,44.34,AromaFit,False,6
+188,P0000188,Książka IT PapierowyŚwiat Max,488,36.89,PapierowyŚwiat,True,4
+189,P0000189,Album Fotograficzny Wydawnictwo IT Lite,1347,52.9,Wydawnictwo IT,True,4
+190,P0000190,Rower Górski SportPro Basic,12486,4070.55,SportPro,False,5
+191,P0000191,Buty Sportowe FashionLine Pro,1043,186.05,FashionLine,False,2
+192,P0000192,Prostownik Akumulatora CarPro Plus,1638,202.67,CarPro,True,8
+193,P0000193,Laptop SoundAudio Lite,1201,6043.81,SoundAudio,True,1
+194,P0000194,Zestaw Kosmetyków Auto DriveSafe Eco,1705,85.56,DriveSafe,True,8
+195,P0000195,Skarpetki 3-pack UrbanStyle Pro,116,35.35,UrbanStyle,False,2
+196,P0000196,Mata do Jogi IronFit Advanced,1313,39.66,IronFit,True,5
+197,P0000197,Hantle Żeliwne IronFit Classic,4371,85.78,IronFit,True,5
+198,P0000198,Zestaw Kosmetyków Auto DriveSafe Ultra,1064,81.82,DriveSafe,True,8
+199,P0000199,Krem Nawilżający NaturePure V2,85,79.53,NaturePure,False,6
+200,P0000200,Skarpetki 3-pack CottonRich Advanced,131,36.28,CottonRich,False,2
+201,P0000201,Mata do Jogi OutdoorPeak Basic,1032,49.61,OutdoorPeak,False,5
+202,P0000202,Krem Nawilżający NaturePure Pro,111,79.46,NaturePure,False,6
+203,P0000203,Czapka Zimowa ActiveWear V2,113,37.19,ActiveWear,True,2
+204,P0000204,Spodnie Jeans CottonRich Max,549,233.07,CottonRich,True,2
+205,P0000205,Serum do Twarzy DermaCare Premium,73,56.23,DermaCare,True,6
+206,P0000206,Lampa Biurkowa HomeTech Ultra,1143,91.82,HomeTech,False,3
+207,P0000207,Serum do Twarzy GlowUp Ultra,116,44.9,GlowUp,False,6
+208,P0000208,Rower Górski RunMaster Basic,13883,2874.21,RunMaster,True,5
+209,P0000209,Olej Silnikowy 4L AutoDrive Basic,3688,198.12,AutoDrive,True,8
+210,P0000210,Czapka Zimowa UrbanStyle Lite,140,77.48,UrbanStyle,True,2
+211,P0000211,Zestaw Kluczy Nasadowych CarPro Plus,4478,266.47,CarPro,True,8
+212,P0000212,Smartwatch TechCorp Plus,50,1007.28,TechCorp,True,1
+213,P0000213,Powerbank ElectroMax Eco,468,154.55,ElectroMax,True,1
+214,P0000214,Perfumy 50ml GlowUp Advanced,254,366.55,GlowUp,True,6
+215,P0000215,Krem Nawilżający GlowUp Pro,151,109.8,GlowUp,True,6
+216,P0000216,Bidon Sportowy RunMaster Ultra,185,17.85,RunMaster,True,5
+217,P0000217,Perfumy 50ml NaturePure Ultra,171,194.55,NaturePure,False,6
+218,P0000218,Szampon Wzmacniający AromaFit Pro,458,28.78,AromaFit,True,6
+219,P0000219,Perfumy 50ml DermaCare Premium,237,430.64,DermaCare,False,6
+220,P0000220,Powieść Kryminalna BookWorld Ultra,269,30.35,BookWorld,True,4
+221,P0000221,Klawiatura Mech. ApexTech Ultra,1111,288.36,ApexTech,True,1
+222,P0000222,Lampa Biurkowa ComfortHome Basic,920,76.89,ComfortHome,True,3
+223,P0000223,Zestaw Kluczy Nasadowych MotorParts V2,5210,257.12,MotorParts,True,8
+224,P0000224,Piłka do Piłki Nożnej IronFit Plus,443,144.18,IronFit,False,5
+225,P0000225,Prostownik Akumulatora DriveSafe Max,2080,151.17,DriveSafe,True,8
+226,P0000226,Podręcznik Językowy BookWorld Classic,376,83.09,BookWorld,True,4
+227,P0000227,Spodnie Jeans ActiveWear Pro,840,98.86,ActiveWear,False,2
+228,P0000228,Patelnia Teﬂonowa HomeTech Premium,1061,110.19,HomeTech,True,3
+229,P0000229,Klocki Konstrukcyjne PlayLand Max,1165,120.73,PlayLand,True,7
+230,P0000230,Szampon Wzmacniający BioBeauty Plus,375,39.69,BioBeauty,True,6
+231,P0000231,Lampa Biurkowa HomeTech Classic,983,115.05,HomeTech,True,3
+232,P0000232,Olej Silnikowy 4L TurboClean Basic,3540,92.47,TurboClean,True,8
+233,P0000233,Patelnia Teﬂonowa HomeTech Classic,843,60.6,HomeTech,True,3
+234,P0000234,Album Fotograficzny MediaRead Pro,1027,133.67,MediaRead,False,4
+235,P0000235,Tablet ApexTech Premium,423,1357.31,ApexTech,True,1
+236,P0000236,Szampon Wzmacniający AromaFit Advanced,397,33.92,AromaFit,True,6
+237,P0000237,Krem Nawilżający AromaFit Max,144,123.3,AromaFit,True,6
+238,P0000238,Pluszowy Miś 30cm ToyWorld Edition 2024,249,69.05,ToyWorld,True,7
+239,P0000239,Klawiatura Mech. TechCorp Plus,746,466.47,TechCorp,True,1
+240,P0000240,Szampon Wzmacniający BioBeauty Plus,489,23.17,BioBeauty,True,6
+241,P0000241,Zestaw Kosmetyków Auto DriveSafe Edition 2024,1173,129.26,DriveSafe,True,8
+242,P0000242,Wideorejestrator MotorParts Premium,211,420.62,MotorParts,True,8
+243,P0000243,Perfumy 50ml AromaFit Advanced,289,255.16,AromaFit,True,6
+244,P0000244,Komiks Marvel PapierowyŚwiat Basic,535,43.26,PapierowyŚwiat,True,4
+245,P0000245,Balsam do Ciała NaturePure V2,312,55.57,NaturePure,False,6
+246,P0000246,Szampon Wzmacniający NaturePure V2,477,24.12,NaturePure,True,6
+247,P0000247,Czapka Zimowa FashionLine Advanced,147,79.73,FashionLine,True,2
+248,P0000248,Rower Górski FitZone Pro,13686,3381.03,FitZone,True,5
+249,P0000249,Zestaw Kluczy Nasadowych DriveSafe Ultra,4825,255.37,DriveSafe,False,8
+250,P0000250,Klawiatura Mech. ApexTech Advanced,781,419.73,ApexTech,True,1
+251,P0000251,Czapka Zimowa ActiveWear Max,90,77.4,ActiveWear,True,2
+252,P0000252,Wideorejestrator CarPro Pro,260,415.84,CarPro,True,8
+253,P0000253,Balsam do Ciała AromaFit Basic,354,24.44,AromaFit,False,6
+254,P0000254,Perfumy 50ml NaturePure Pro,296,130.95,NaturePure,True,6
+255,P0000255,Gra Planszowa FunBlocks Premium,832,49.53,FunBlocks,True,7
+256,P0000256,Zestaw Kluczy Nasadowych DriveSafe Max,2482,191.62,DriveSafe,True,8
+257,P0000257,Uchwyt Samochodowy TurboClean Classic,168,65.41,TurboClean,False,8
+258,P0000258,Książka IT BookWorld Pro,531,40.36,BookWorld,False,4
+259,P0000259,Skarpetki 3-pack ActiveWear V2,88,31.5,ActiveWear,True,2
+260,P0000260,Hantle Żeliwne IronFit Plus,6167,68.12,IronFit,True,5
+261,P0000261,Ręcznik Bawełniany ComfortHome Basic,384,39.93,ComfortHome,True,3
+262,P0000262,Zestaw Kluczy Nasadowych CarPro Lite,5621,130.18,CarPro,True,8
+263,P0000263,Puzzle 1000 el. PlayLand Max,610,59.61,PlayLand,True,7
+264,P0000264,Odkurzacz Pionowy HomeTech Eco,3908,896.1,HomeTech,True,3
+265,P0000265,Lampa Biurkowa CookMaster Advanced,1014,139.73,CookMaster,True,3
+266,P0000266,Buty Sportowe ActiveWear Ultra,665,229.06,ActiveWear,True,2
+267,P0000267,Szczoteczka Soniczna GlowUp Pro,264,158.89,GlowUp,True,6
+268,P0000268,Młynek do Kawy EcoLiving Max,695,125.39,EcoLiving,True,3
+269,P0000269,Lampa Biurkowa EcoLiving V2,1119,73.83,EcoLiving,True,3
+270,P0000270,Słuchawki TechCorp Edition 2024,175,548.81,TechCorp,False,1
+271,P0000271,Smartwatch ApexTech Classic,78,972.71,ApexTech,False,1
+272,P0000272,Piłka do Piłki Nożnej FitZone V2,403,57.39,FitZone,False,5
+273,P0000273,Olej Silnikowy 4L CarPro Plus,3573,130.64,CarPro,True,8
+274,P0000274,Balsam do Ciała DermaCare Plus,331,41.59,DermaCare,True,6
+275,P0000275,Album Fotograficzny Wydawnictwo IT Classic,1720,74.79,Wydawnictwo IT,True,4
+276,P0000276,Monitor ElectroMax Lite,4212,921.37,ElectroMax,True,1
+277,P0000277,Szczoteczka Soniczna GlowUp Premium,395,147.8,GlowUp,False,6
+278,P0000278,Prostownik Akumulatora DriveSafe Basic,1184,240.69,DriveSafe,False,8
+279,P0000279,Powieść Kryminalna PapierowyŚwiat Basic,262,29.85,PapierowyŚwiat,False,4
+280,P0000280,Plecak Turystyczny FitZone Pro,1041,124.82,FitZone,True,5
+281,P0000281,Balsam do Ciała GlowUp Basic,302,20.15,GlowUp,True,6
+282,P0000282,Szczoteczka Soniczna GlowUp Pro,298,251.28,GlowUp,True,6
+283,P0000283,Buty Sportowe FashionLine Advanced,882,417.96,FashionLine,True,2
+284,P0000284,Szampon Wzmacniający DermaCare Lite,480,25.25,DermaCare,True,6
+285,P0000285,Smartfon SoundAudio V2,192,3774.67,SoundAudio,False,1
+286,P0000286,Lampa Biurkowa Lumina Lite,826,53.69,Lumina,True,3
+287,P0000287,Szczoteczka Soniczna AromaFit Max,325,312.62,AromaFit,True,6
+288,P0000288,Wideorejestrator MotorParts Plus,372,161.65,MotorParts,False,8
+289,P0000289,Bidon Sportowy FitZone Lite,221,24.29,FitZone,True,5
+290,P0000290,Głośnik Bluetooth ElectroMax Ultra,1373,473.71,ElectroMax,False,1
+291,P0000291,Ręcznik Bawełniany HomeTech Lite,256,23.59,HomeTech,False,3
+292,P0000292,Balsam do Ciała DermaCare Advanced,376,26.56,DermaCare,False,6
+293,P0000293,Laptop ApexTech Premium,1765,7988.74,ApexTech,False,1
+294,P0000294,Gra Planszowa KidsFun Eco,1691,104.91,KidsFun,True,7
+295,P0000295,Plecak Turystyczny OutdoorPeak Premium,852,162.54,OutdoorPeak,True,5
+296,P0000296,Komiks Marvel PapierowyŚwiat V2,306,62.96,PapierowyŚwiat,False,4
+297,P0000297,Balsam do Ciała GlowUp Max,439,57.25,GlowUp,True,6
+298,P0000298,Mata do Jogi RunMaster Edition 2024,1256,67.27,RunMaster,False,5
+299,P0000299,Szampon Wzmacniający GlowUp Basic,423,43.53,GlowUp,True,6
+300,P0000300,Balsam do Ciała GlowUp V2,322,26.99,GlowUp,True,6
+301,P0000301,Zeszyt A5,560,101.43,DemoGoods,True,9
+302,P0000302,Notes biurowy,990,13.11,DemoGoods,True,9
+303,P0000303,Długopis żelowy,52,147.81,DemoGoods,True,9
+304,P0000304,Segregator,616,89.93,DemoGoods,True,9
+305,P0000305,Papier A4,1853,13.49,DemoGoods,True,9
+306,P0000306,Miska dla psa,1803,136.95,DemoGoods,True,10
+307,P0000307,Smycz,1092,144.65,DemoGoods,True,10
+308,P0000308,Zabawka dla kota,471,106.00,DemoGoods,True,10
+309,P0000309,Legowisko,544,98.45,DemoGoods,True,10
+310,P0000310,Szczotka dla psa,1832,78.72,DemoGoods,True,10
+311,P0000311,Herbata zielona,1577,24.04,DemoGoods,True,11
+312,P0000312,Kawa ziarnista,655,18.67,DemoGoods,True,11
+313,P0000313,Ryż basmati,1763,36.38,DemoGoods,True,11
+314,P0000314,Makaron pełnoziarnisty,1546,21.46,DemoGoods,True,11
+315,P0000315,Miód wielokwiatowy,1793,51.19,DemoGoods,True,11
+316,P0000316,Ukulele,1341,81.98,DemoGoods,True,12
+317,P0000317,Tamburyn,1323,63.65,DemoGoods,True,12
+318,P0000318,Flet prosty,1155,20.32,DemoGoods,True,12
+319,P0000319,Stroik gitarowy,477,96.19,DemoGoods,True,12
+320,P0000320,Struny gitarowe,180,92.82,DemoGoods,True,12
+321,P0000321,Włóczka,671,77.81,DemoGoods,True,13
+322,P0000322,Szydełko,1333,119.62,DemoGoods,True,13
+323,P0000323,Zestaw koralików,644,32.14,DemoGoods,True,13
+324,P0000324,Kanwa do haftu,1612,136.29,DemoGoods,True,13
+325,P0000325,Farby akrylowe,1883,80.30,DemoGoods,True,13
+326,P0000326,Młotek,1219,94.66,DemoGoods,True,14
+327,P0000327,Wkrętak,66,67.59,DemoGoods,True,14
+328,P0000328,Klucz nastawny,742,133.71,DemoGoods,True,14
+329,P0000329,Miarka,1508,92.44,DemoGoods,True,14
+330,P0000330,Szczypce,425,89.39,DemoGoods,True,14
+331,P0000331,Szachy,1687,40.71,DemoGoods,True,15
+332,P0000332,Warcaby,1379,90.54,DemoGoods,True,15
+333,P0000333,Domino,1736,123.82,DemoGoods,True,15
+334,P0000334,Gra karciana,1930,128.16,DemoGoods,True,15
+335,P0000335,Gra rodzinna,1311,86.87,DemoGoods,True,15

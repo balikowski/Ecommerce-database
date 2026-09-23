@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city
+1,Magazyn Centralny (Hub),Warszawa
+2,Magazyn Zachód,Poznań
+3,Magazyn Południe,Kraków
+4,Magazyn Północ,Gdańsk
+5,Magazyn Śląsk,Katowice
+6,Magazyn Dolny Śląsk,Wrocław
+7,Magazyn Wschód,Rzeszów
+8,Magazyn Łódź,Łódź
+9,Magazyn Pomorze Zachodnie,Szczecin
+10,Magazyn Kujawy,Bydgoszcz

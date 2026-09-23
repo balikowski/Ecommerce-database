@@ -1,0 +1,7 @@
+order_status_id,status_name
+1,pending
+2,paid
+3,processing
+4,shipped
+5,delivered
+6,refunded

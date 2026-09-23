@@ -1,0 +1,11 @@
+payment_methods_id,payment_method_name
+1,BLIK
+2,Karta płatnicza (Visa / Mastercard)
+3,Szybki przelew (Przelewy24 / PayU)
+4,Przelew tradycyjny
+5,Płatność przy odbiorze (Za pobraniem)
+6,Apple Pay
+7,Google Pay
+8,PayPal
+9,Płatność odroczona (PayPo / Klarna)
+10,Bon upominkowy / Vouchery

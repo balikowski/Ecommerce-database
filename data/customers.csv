@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,tel_num,country,city,is_active,created_at
+1,Małgorzata,Wiśniewska,malgorzata.wisniewska95@outlook.com,+491528728463,Germany,Munich,True,2024-11-23 23:57:00
+2,David,Lewandowska,david.lewandowska76@wp.pl,+48550302251,Poland,Warszawa,True,2023-08-27 16:38:00
+3,Anna,Davis,anna.davis26@interia.pl,+33639587039,France,Toulouse,False,2024-08-26 08:51:00
+4,Jan,Kozłowski,jan.kozlowski90@wp.pl,+447266944844,United Kingdom,Birmingham,True,2023-12-11 03:05:00
+5,Grzegorz,Zieliński,grzegorz.zielinski46@company.com,+447384027113,United Kingdom,Glasgow,True,2024-04-15 17:07:00
+6,Grzegorz,Lewandowska,grzegorz.lewandowska71@outlook.com,+33687490893,France,Marseille,True,2023-03-13 01:42:00
+7,Marcin,Grabowski,marcin.grabowski11@company.com,+491561019678,Germany,Berlin,True,2024-04-09 20:53:00
+8,Dorota,Kozłowski,dorota.kozlowski48@outlook.com,+491596977837,Germany,Hamburg,True,2024-09-15 20:10:00
+9,David,Krawczyk,david.krawczyk21@wp.pl,+19043745320,United States,Chicago,True,2023-11-29 01:14:00
+10,Piotr,Pawłowski,piotr.pawlowski52@outlook.com,+48804502471,Poland,Poznań,True,2023-08-06 20:31:00
+11,Alicja,Johnson,alicja.johnson19@outlook.com,+491585345555,Germany,Munich,True,2024-08-21 13:57:00
+12,Elena,Dudek,elena.dudek47@yahoo.com,+491576238574,Germany,Cologne,True,2023-02-18 03:09:00
+13,Paweł,Majewska,pawel.majewska77@gmail.com,+18854288585,United States,Houston,False,2024-06-25 08:35:00
+14,Jan,Szymańska,jan.szymanska88@onet.pl,+447219778234,United Kingdom,Birmingham,True,2024-03-21 05:29:00
+15,Jan,Kaczmarek,jan.kaczmarek65@company.com,+491524282218,Germany,Cologne,True,2024-10-16 16:38:00
+16,Michał,Dąbrowska,michal.dabrowska48@company.com,+491581182864,Germany,Cologne,True,2024-09-05 10:31:00
+17,Anna,Szymańska,anna.szymanska47@company.com,+447162196678,United Kingdom,Manchester,True,2024-08-03 02:05:00
+18,Emma,Kamiński,emma.kaminski98@onet.pl,+491598550256,Germany,Munich,False,2024-07-16 05:16:00
+19,Sarah,Majewska,sarah.majewska28@onet.pl,+491563551839,Germany,Hamburg,True,2024-03-24 16:28:00
+20,Małgorzata,Krawczyk,malgorzata.krawczyk29@gmail.com,+447731691672,United Kingdom,London,True,2024-08-25 07:00:00
+21,Krzysztof,Kowalczyk,krzysztof.kowalczyk30@gmail.com,+48538041250,Poland,Łódź,True,2023-10-13 21:31:00
+22,Barbara,Miller,barbara.miller17@interia.pl,+33673440831,France,Nice,True,2024-04-29 13:12:00
+23,Andrzej,Zieliński,andrzej.zielinski85@wp.pl,+447541417711,United Kingdom,Edinburgh,False,2023-02-25 21:41:00
+24,Andrzej,Kowalczyk,andrzej.kowalczyk52@interia.pl,+447366992705,United Kingdom,London,True,2023-07-14 17:28:00
+25,Tomasz,Majewska,tomasz.majewska24@outlook.com,+12323775634,United States,Los Angeles,True,2023-02-21 20:34:00
+26,Jan,Lewandowska,jan.lewandowska97@company.com,+491564547971,Germany,Munich,False,2024-05-07 06:55:00
+27,Alicja,Kowalczyk,alicja.kowalczyk22@wp.pl,+48642379807,Poland,Katowice,False,2023-10-20 13:44:00
+28,Laura,Brown,laura.brown20@yahoo.com,+447162795957,United Kingdom,Manchester,True,2023-11-18 01:03:00
+29,Elena,Williams,elena.williams65@company.com,+33617634247,France,Lyon,True,2023-07-10 02:38:00
+30,Krzysztof,Krawczyk,krzysztof.krawczyk52@gmail.com,+33687701200,France,Lyon,True,2024-09-26 02:26:00
+31,Elena,Garcia,elena.garcia41@outlook.com,+491542035886,Germany,Hamburg,True,2024-02-10 04:42:00
+32,Joanna,Johnson,joanna.johnson41@company.com,+48746040164,Poland,Warszawa,True,2023-03-17 17:13:00
+33,Michael,Kaczmarek,michael.kaczmarek17@outlook.com,+48698388346,Poland,Poznań,True,2023-06-11 14:53:00
+34,David,Zając,david.zajac79@company.com,+33699639081,France,Paris,True,2024-11-10 03:56:00
+35,Tomasz,Kaczmarek,tomasz.kaczmarek15@gmail.com,+33646553958,France,Lyon,True,2024-09-11 06:45:00
+36,Monika,Wojciechowska,monika.wojciechowska88@interia.pl,+447624557080,United Kingdom,Glasgow,True,2023-02-22 02:40:00
+37,Karolina,Piotrowska,karolina.piotrowska6@gmail.com,+447784095277,United Kingdom,Manchester,True,2023-06-15 23:28:00
+38,Laura,Majewska,laura.majewska72@gmail.com,+48870988333,Poland,Kraków,True,2024-07-12 01:53:00
+39,Dorota,Davis,dorota.davis19@wp.pl,+491551373735,Germany,Berlin,True,2023-02-10 11:13:00
+40,Ewelina,Zieliński,ewelina.zielinski46@company.com,+33693303777,France,Toulouse,True,2023-08-31 05:51:00
+41,Ewa,Adamczyk,ewa.adamczyk4@yahoo.com,+447961393416,United Kingdom,Edinburgh,True,2023-10-01 05:50:00
+42,Andrzej,Jabłoński,andrzej.jablonski5@company.com,+17152126064,United States,Los Angeles,False,2023-12-25 09:52:00
+43,Marcin,Kwiatkowski,marcin.kwiatkowski4@interia.pl,+491554058573,Germany,Frankfurt,True,2023-03-13 08:22:00
+44,Michael,Dudek,michael.dudek87@company.com,+33613704481,France,Marseille,True,2023-09-25 05:37:00
+45,Jakub,Wójcik,jakub.wojcik14@onet.pl,+19424044505,United States,Chicago,True,2024-03-22 19:32:00
+46,Małgorzata,Jabłoński,malgorzata.jablonski74@yahoo.com,+447861052404,United Kingdom,London,False,2023-01-02 16:59:00
+47,David,Mazur,david.mazur47@wp.pl,+48834554012,Poland,Łódź,True,2024-11-10 03:46:00
+48,Joanna,Jones,joanna.jones40@interia.pl,+18023263798,United States,Chicago,True,2024-07-21 04:12:00
+49,Mateusz,Jabłoński,mateusz.jablonski87@interia.pl,+491586384014,Germany,Cologne,True,2024-02-20 17:53:00
+50,Jan,Zając,jan.zajac37@yahoo.com,+18900558884,United States,Phoenix,True,2024-04-21 14:28:00
+51,Barbara,Jones,barbara.jones61@company.com,+491548089166,Germany,Berlin,True,2023-04-06 07:43:00
+52,Joanna,Kwiatkowski,joanna.kwiatkowski26@yahoo.com,+48631448838,Poland,Warszawa,False,2024-09-17 02:29:00
+53,Mateusz,Mazur,mateusz.mazur92@interia.pl,+13716495971,United States,Houston,True,2024-11-02 22:00:00
+54,Andrzej,Majewska,andrzej.majewska29@yahoo.com,+33616740197,France,Toulouse,True,2023-05-05 14:08:00
+55,Natalia,Garcia,natalia.garcia72@onet.pl,+447757830420,United Kingdom,Edinburgh,False,2024-07-15 14:57:00
+56,Paweł,Williams,pawel.williams58@outlook.com,+491579967676,Germany,Hamburg,False,2024-10-03 07:17:00
+57,Wojciech,Kamiński,wojciech.kaminski92@outlook.com,+491555076693,Germany,Hamburg,True,2024-07-07 02:08:00
+58,Agnieszka,Kwiatkowski,agnieszka.kwiatkowski50@interia.pl,+491518620650,Germany,Munich,False,2024-02-22 10:34:00
+59,Natalia,Adamczyk,natalia.adamczyk8@yahoo.com,+18803569270,United States,Houston,True,2024-08-12 12:30:00
+60,Jan,Nowak,jan.nowak39@company.com,+18606607019,United States,Houston,True,2024-05-14 07:17:00
+61,Karolina,Brown,karolina.brown4@wp.pl,+447877583839,United Kingdom,Edinburgh,True,2024-04-23 04:39:00
+62,David,Wiśniewska,david.wisniewska51@onet.pl,+33621267237,France,Paris,False,2023-05-19 14:11:00
+63,Maria,Kaczmarek,maria.kaczmarek49@outlook.com,+491553868501,Germany,Frankfurt,True,2024-01-24 08:48:00
+64,Mateusz,Kaczmarek,mateusz.kaczmarek11@wp.pl,+48687883528,Poland,Warszawa,True,2024-10-27 02:49:00
+65,Piotr,Wiśniewska,piotr.wisniewska32@yahoo.com,+48628067840,Poland,Wrocław,True,2024-04-29 21:07:00
+66,James,Wojciechowska,james.wojciechowska60@interia.pl,+447280162221,United Kingdom,Birmingham,True,2023-06-17 09:06:00
+67,Elena,Wiśniewska,elena.wisniewska40@onet.pl,+12851819913,United States,Houston,True,2023-04-15 22:49:00
+68,Joanna,Szymańska,joanna.szymanska73@company.com,+48786015427,Poland,Łódź,False,2024-11-08 11:04:00
+69,Michael,Michalska,michael.michalska2@company.com,+12453285987,United States,Houston,True,2024-10-12 14:45:00
+70,Agnieszka,Majewska,agnieszka.majewska23@interia.pl,+33692666356,France,Marseille,False,2024-04-21 13:52:00
+71,Elena,Piotrowska,elena.piotrowska42@company.com,+491547437115,Germany,Berlin,False,2023-09-07 14:36:00
+72,Sophie,Jabłoński,sophie.jablonski44@gmail.com,+12780996231,United States,Chicago,True,2023-12-30 08:21:00
+73,Magdalena,Piotrowska,magdalena.piotrowska72@gmail.com,+33621490777,France,Lyon,True,2024-02-21 15:35:00
+74,Ewelina,Williams,ewelina.williams83@interia.pl,+15405620755,United States,Houston,True,2023-10-29 07:25:00
+75,Ewelina,Zając,ewelina.zajac85@onet.pl,+447694287057,United Kingdom,Edinburgh,True,2024-03-11 23:35:00
+76,Monika,Nowak,monika.nowak90@wp.pl,+447369942642,United Kingdom,Birmingham,True,2023-05-04 23:12:00
+77,Łukasz,Szymańska,lukasz.szymanska96@onet.pl,+491539042654,Germany,Munich,False,2023-10-11 23:37:00
+78,Sarah,Grabowski,sarah.grabowski13@company.com,+491540532273,Germany,Hamburg,True,2023-07-03 09:00:00
+79,David,Woźniak,david.wozniak36@gmail.com,+48874423108,Poland,Gdańsk,True,2024-10-15 15:06:00
+80,Jan,Grabowski,jan.grabowski61@wp.pl,+17086803230,United States,Chicago,True,2023-09-16 15:07:00
+81,Krzysztof,Dudek,krzysztof.dudek63@gmail.com,+33630364454,France,Paris,True,2024-07-30 09:05:00
+82,Ewelina,Szymańska,ewelina.szymanska72@company.com,+18855312602,United States,Phoenix,True,2024-06-19 12:28:00
+83,Wojciech,Zając,wojciech.zajac76@wp.pl,+447766823010,United Kingdom,Glasgow,True,2024-09-16 23:06:00
+84,Barbara,Wojciechowska,barbara.wojciechowska34@interia.pl,+48628776637,Poland,Wrocław,True,2024-07-19 02:10:00
+85,Jan,Adamczyk,jan.adamczyk58@interia.pl,+33649092160,France,Toulouse,True,2023-08-26 09:45:00
+86,Adam,Johnson,adam.johnson10@interia.pl,+491593893865,Germany,Hamburg,True,2024-03-11 03:34:00
+87,Marcin,Dąbrowska,marcin.dabrowska35@company.com,+491518004482,Germany,Berlin,True,2023-11-11 19:47:00
+88,James,Grabowski,james.grabowski57@gmail.com,+15005333281,United States,Chicago,True,2024-05-27 17:31:00
+89,Wojciech,Lewandowska,wojciech.lewandowska77@gmail.com,+14592930364,United States,Chicago,True,2023-04-04 07:43:00
+90,James,Wiśniewska,james.wisniewska98@interia.pl,+447143198431,United Kingdom,Glasgow,True,2024-04-26 16:41:00
+91,Wojciech,Piotrowska,wojciech.piotrowska24@onet.pl,+16162060546,United States,Houston,False,2023-12-23 13:21:00
+92,Łukasz,Zieliński,lukasz.zielinski21@outlook.com,+17532853311,United States,Houston,False,2024-07-17 01:29:00
+93,Katarzyna,Pawłowski,katarzyna.pawlowski33@outlook.com,+48776271759,Poland,Katowice,True,2024-11-04 17:29:00
+94,Mateusz,Kowalczyk,mateusz.kowalczyk25@onet.pl,+447912224654,United Kingdom,Glasgow,False,2024-10-02 14:48:00
+95,Maria,Wojciechowska,maria.wojciechowska35@onet.pl,+491568802946,Germany,Hamburg,False,2023-05-05 00:40:00
+96,Alexander,Krawczyk,alexander.krawczyk91@yahoo.com,+447114682844,United Kingdom,Glasgow,False,2023-04-06 07:53:00
+97,Małgorzata,Johnson,malgorzata.johnson16@interia.pl,+491549172995,Germany,Frankfurt,True,2024-03-01 15:30:00
+98,Ewelina,Johnson,ewelina.johnson71@yahoo.com,+18477845302,United States,Los Angeles,True,2023-03-13 08:49:00
+99,Mateusz,Michalska,mateusz.michalska65@outlook.com,+48889795655,Poland,Gdańsk,True,2024-08-24 18:42:00
+100,Emma,Dąbrowska,emma.dabrowska58@onet.pl,+17722786026,United States,Chicago,False,2024-04-11 10:55:00
+101,Michał,Krawczyk,michal.krawczyk74@wp.pl,+491515858241,Germany,Frankfurt,True,2024-04-29 22:58:00
+102,Grzegorz,Jabłoński,grzegorz.jablonski85@company.com,+491514968688,Germany,Frankfurt,True,2024-05-29 18:21:00
+103,Andrzej,Smith,andrzej.smith13@onet.pl,+15102872611,United States,New York,False,2024-11-01 04:04:00
+104,John,Kaczmarek,john.kaczmarek44@onet.pl,+15658304095,United States,New York,False,2023-11-21 20:45:00
+105,Emma,Miller,emma.miller5@onet.pl,+48838851990,Poland,Poznań,True,2023-08-21 23:05:00
+106,Karolina,Zieliński,karolina.zielinski98@interia.pl,+48589316412,Poland,Szczecin,True,2023-01-30 01:20:00
+107,Maria,Grabowski,maria.grabowski46@outlook.com,+17343787295,United States,Los Angeles,False,2024-08-02 21:50:00
+108,Ewa,Kozłowski,ewa.kozlowski23@gmail.com,+33693176117,France,Toulouse,True,2024-05-24 18:09:00
+109,Marcin,Johnson,marcin.johnson82@outlook.com,+14864059081,United States,Chicago,False,2023-10-22 21:34:00
+110,Paweł,Kamiński,pawel.kaminski57@outlook.com,+33695756900,France,Marseille,False,2023-09-14 14:54:00
+111,Joanna,Mazur,joanna.mazur50@company.com,+13018790736,United States,New York,True,2024-08-11 09:44:00
+112,Adam,Wiśniewska,adam.wisniewska85@wp.pl,+447707661655,United Kingdom,London,True,2024-09-12 23:31:00
+113,Adam,Kwiatkowski,adam.kwiatkowski78@company.com,+447783563240,United Kingdom,Manchester,True,2024-09-27 08:43:00
+114,Tomasz,Zieliński,tomasz.zielinski81@interia.pl,+48736665151,Poland,Gdańsk,True,2024-08-16 11:46:00
+115,Tomasz,Lewandowska,tomasz.lewandowska38@outlook.com,+12862407093,United States,Los Angeles,True,2024-06-27 16:58:00
+116,Magdalena,Kozłowski,magdalena.kozlowski33@company.com,+19501415270,United States,Chicago,True,2023-04-28 14:04:00
+117,Agnieszka,Kwiatkowski,agnieszka.kwiatkowski87@interia.pl,+13570991899,United States,Phoenix,False,2023-01-15 08:34:00
+118,Małgorzata,Johnson,malgorzata.johnson48@interia.pl,+447509123009,United Kingdom,Glasgow,True,2023-04-21 21:14:00
+119,John,Wiśniewska,john.wisniewska80@onet.pl,+447337691219,United Kingdom,Glasgow,True,2024-10-12 14:58:00
+120,Joanna,Adamczyk,joanna.adamczyk15@yahoo.com,+48663404488,Poland,Warszawa,False,2023-04-29 03:15:00
+121,David,Woźniak,david.wozniak50@wp.pl,+447550033924,United Kingdom,Glasgow,True,2024-02-29 20:06:00
+122,Emma,Adamczyk,emma.adamczyk36@gmail.com,+447576078963,United Kingdom,Manchester,False,2023-08-30 11:06:00
+123,Dorota,Miller,dorota.miller83@outlook.com,+48648112723,Poland,Katowice,True,2023-05-06 14:05:00
+124,Barbara,Wiśniewska,barbara.wisniewska7@company.com,+447235209737,United Kingdom,Manchester,True,2023-03-12 17:13:00
+125,Elena,Wojciechowska,elena.wojciechowska30@outlook.com,+491510380581,Germany,Cologne,True,2023-05-29 04:34:00
+126,Jakub,Jankowska,jakub.jankowska15@interia.pl,+48507978076,Poland,Wrocław,True,2023-09-01 18:20:00
+127,Anna,Jankowska,anna.jankowska34@gmail.com,+491580610004,Germany,Frankfurt,True,2023-03-07 15:28:00
+128,Dorota,Jones,dorota.jones76@gmail.com,+17246516231,United States,Phoenix,True,2024-11-05 16:19:00
+129,Natalia,Wiśniewska,natalia.wisniewska8@wp.pl,+14946766309,United States,Houston,False,2024-03-30 02:57:00
+130,Katarzyna,Pawłowski,katarzyna.pawlowski78@yahoo.com,+48647648089,Poland,Wrocław,True,2024-01-26 19:33:00
+131,Adam,Johnson,adam.johnson65@onet.pl,+19701289085,United States,New York,True,2024-11-01 20:56:00
+132,Laura,Wojciechowska,laura.wojciechowska56@wp.pl,+491555490631,Germany,Frankfurt,False,2024-02-13 13:46:00
+133,Andrzej,Pawłowski,andrzej.pawlowski55@outlook.com,+447263894795,United Kingdom,Birmingham,False,2023-03-10 02:53:00
+134,Katarzyna,Lewandowska,katarzyna.lewandowska56@gmail.com,+447697398528,United Kingdom,Manchester,True,2024-08-23 17:35:00
+135,Monika,Szymańska,monika.szymanska53@outlook.com,+16159240421,United States,New York,True,2023-12-27 03:36:00
+136,Michael,Wojciechowska,michael.wojciechowska20@interia.pl,+15639017775,United States,Los Angeles,True,2024-07-23 11:07:00
+137,Magdalena,Kwiatkowski,magdalena.kwiatkowski55@company.com,+33692352411,France,Nice,True,2024-09-15 21:53:00
+138,Magdalena,Wiśniewska,magdalena.wisniewska24@outlook.com,+447476908532,United Kingdom,Birmingham,True,2023-07-05 04:36:00
+139,Alicja,Kamiński,alicja.kaminski19@interia.pl,+48784800724,Poland,Kraków,True,2024-01-21 13:29:00
+140,Monika,Kozłowski,monika.kozlowski48@outlook.com,+447740190407,United Kingdom,Glasgow,True,2023-02-23 04:10:00
+141,Sophie,Kowalczyk,sophie.kowalczyk87@gmail.com,+447810751262,United Kingdom,Edinburgh,False,2024-05-12 19:28:00
+142,Mateusz,Piotrowska,mateusz.piotrowska28@company.com,+33656328316,France,Paris,False,2023-04-24 09:43:00
+143,Elena,Brown,elena.brown68@interia.pl,+447336779871,United Kingdom,London,False,2024-09-05 01:00:00
+144,Barbara,Zając,barbara.zajac28@company.com,+491548848936,Germany,Hamburg,True,2023-05-03 00:31:00
+145,Karolina,Jankowska,karolina.jankowska17@wp.pl,+33677144075,France,Lyon,True,2023-03-15 12:55:00
+146,Piotr,Majewska,piotr.majewska3@wp.pl,+48809108346,Poland,Łódź,False,2024-08-10 12:45:00
+147,Mateusz,Grabowski,mateusz.grabowski15@wp.pl,+48592273711,Poland,Łódź,False,2024-01-06 02:27:00
+148,Andrzej,Krawczyk,andrzej.krawczyk56@onet.pl,+12337786687,United States,Phoenix,True,2023-12-14 07:21:00
+149,Paweł,Kamiński,pawel.kaminski66@interia.pl,+48687569419,Poland,Poznań,True,2024-10-22 04:15:00
+150,Andrzej,Dąbrowska,andrzej.dabrowska33@yahoo.com,+491530517835,Germany,Cologne,True,2023-07-01 20:31:00
+151,Natalia,Smith,natalia.smith88@onet.pl,+33694183695,France,Marseille,True,2023-06-04 14:04:00
+152,John,Smith,john.smith81@outlook.com,+447160314355,United Kingdom,Glasgow,True,2024-06-03 02:19:00
+153,Natalia,Smith,natalia.smith5@gmail.com,+447182389284,United Kingdom,Birmingham,True,2024-09-21 19:32:00
+154,Grzegorz,Johnson,grzegorz.johnson75@onet.pl,+48806905846,Poland,Szczecin,True,2023-11-26 19:30:00
+155,Michael,Dąbrowska,michael.dabrowska8@wp.pl,+48883495242,Poland,Łódź,True,2024-05-31 20:11:00
+156,Piotr,Krawczyk,piotr.krawczyk91@wp.pl,+18540152998,United States,Phoenix,True,2024-01-08 11:58:00
+157,Adam,Jabłoński,adam.jablonski53@company.com,+447156227043,United Kingdom,Glasgow,True,2023-03-09 10:06:00
+158,Laura,Jabłoński,laura.jablonski37@outlook.com,+33654743095,France,Lyon,True,2024-08-19 21:09:00
+159,Marek,Zając,marek.zajac84@interia.pl,+18850649890,United States,Los Angeles,True,2023-11-14 17:24:00
+160,Monika,Woźniak,monika.wozniak86@interia.pl,+33696707983,France,Paris,False,2024-06-04 11:01:00
+161,Dorota,Zając,dorota.zajac24@yahoo.com,+447306164050,United Kingdom,Edinburgh,True,2023-05-21 04:04:00
+162,Adam,Zieliński,adam.zielinski65@company.com,+33615066382,France,Nice,True,2024-09-24 04:38:00
+163,Grzegorz,Dąbrowska,grzegorz.dabrowska21@yahoo.com,+33668743530,France,Lyon,True,2024-02-25 11:43:00
+164,Ewelina,Smith,ewelina.smith79@outlook.com,+14293560436,United States,Los Angeles,True,2024-04-25 06:23:00
+165,James,Smith,james.smith60@company.com,+447639991949,United Kingdom,Edinburgh,False,2023-06-15 06:51:00
+166,Alexander,Woźniak,alexander.wozniak33@gmail.com,+18676701658,United States,Chicago,True,2024-06-12 03:18:00
+167,Katarzyna,Kozłowski,katarzyna.kozlowski35@wp.pl,+33668716573,France,Lyon,True,2023-08-16 14:56:00
+168,Marek,Wiśniewska,marek.wisniewska54@gmail.com,+13606152369,United States,Phoenix,False,2023-03-25 11:14:00
+169,Anna,Pawłowski,anna.pawlowski13@company.com,+447247746438,United Kingdom,Manchester,True,2023-10-21 15:44:00
+170,Tomasz,Williams,tomasz.williams58@onet.pl,+48510202634,Poland,Kraków,True,2023-08-09 04:35:00
+171,Alexander,Garcia,alexander.garcia55@gmail.com,+447423358638,United Kingdom,Manchester,True,2023-02-18 07:26:00
+172,Sophie,Johnson,sophie.johnson9@gmail.com,+14302333490,United States,Phoenix,True,2023-05-28 09:27:00
+173,Jan,Nowak,jan.nowak31@onet.pl,+19148420312,United States,Los Angeles,True,2024-06-20 11:04:00
+174,Sarah,Miller,sarah.miller65@company.com,+33612729224,France,Nice,False,2024-04-26 01:40:00
+175,Grzegorz,Wieczorek,grzegorz.wieczorek33@interia.pl,+48536270760,Poland,Łódź,True,2023-09-04 23:42:00
+176,Andrzej,Michalska,andrzej.michalska18@gmail.com,+447463512350,United Kingdom,Glasgow,True,2024-04-20 22:30:00
+177,Ewa,Woźniak,ewa.wozniak9@interia.pl,+13260326267,United States,New York,True,2023-07-24 01:20:00
+178,Joanna,Jones,joanna.jones51@company.com,+33643999198,France,Toulouse,True,2024-10-24 06:18:00
+179,Marek,Kowalczyk,marek.kowalczyk84@outlook.com,+447958287383,United Kingdom,London,True,2024-03-23 12:47:00
+180,Wojciech,Jabłoński,wojciech.jablonski44@yahoo.com,+17872710315,United States,Houston,True,2023-03-26 23:27:00
+181,Katarzyna,Majewska,katarzyna.majewska78@company.com,+491549428661,Germany,Cologne,True,2023-04-16 02:20:00
+182,Adam,Zając,adam.zajac58@onet.pl,+14962517290,United States,Los Angeles,True,2024-04-02 01:46:00
+183,Marek,Majewska,marek.majewska36@interia.pl,+48860339106,Poland,Kraków,False,2024-01-08 16:51:00
+184,Paweł,Wiśniewska,pawel.wisniewska19@company.com,+33614670638,France,Toulouse,True,2023-03-10 07:49:00
+185,Dorota,Wieczorek,dorota.wieczorek50@onet.pl,+48864568665,Poland,Wrocław,False,2024-01-15 11:28:00
+186,Krzysztof,Woźniak,krzysztof.wozniak68@outlook.com,+14789842140,United States,Chicago,True,2023-04-27 00:47:00
+187,Ewa,Brown,ewa.brown67@wp.pl,+33645135070,France,Paris,True,2024-04-01 06:39:00
+188,Adam,Brown,adam.brown26@gmail.com,+491570672142,Germany,Berlin,True,2024-03-31 02:51:00
+189,Łukasz,Nowak,lukasz.nowak91@gmail.com,+33648971765,France,Nice,True,2023-06-11 22:45:00
+190,Ewa,Wieczorek,ewa.wieczorek66@yahoo.com,+48574558952,Poland,Poznań,True,2024-05-20 00:23:00
+191,Laura,Wieczorek,laura.wieczorek60@company.com,+33692134318,France,Lyon,True,2023-03-09 09:25:00
+192,John,Garcia,john.garcia53@company.com,+12316756902,United States,Phoenix,True,2024-10-19 02:28:00
+193,Natalia,Garcia,natalia.garcia45@yahoo.com,+33634422678,France,Nice,True,2024-03-19 16:58:00
+194,Maria,Szymańska,maria.szymanska67@yahoo.com,+447273910700,United Kingdom,Manchester,True,2023-08-19 11:33:00
+195,Adam,Lewandowska,adam.lewandowska33@yahoo.com,+33626800072,France,Marseille,True,2024-09-21 17:05:00
+196,Michael,Kozłowski,michael.kozlowski76@onet.pl,+491598413629,Germany,Munich,True,2024-07-31 01:52:00
+197,Anna,Lewandowska,anna.lewandowska6@interia.pl,+33697393186,France,Marseille,True,2024-08-08 13:39:00
+198,Anna,Brown,anna.brown81@onet.pl,+447618558050,United Kingdom,Birmingham,True,2024-02-20 09:29:00
+199,Krzysztof,Kowalczyk,krzysztof.kowalczyk21@wp.pl,+13994763896,United States,Houston,True,2024-09-13 04:20:00
+200,Łukasz,Nowak,lukasz.nowak52@yahoo.com,+447703068400,United Kingdom,Glasgow,True,2023-11-23 07:29:00
+201,Wojciech,Lewandowska,customer201@example.com,+48500000201,United States,Chicago,True,2024-05-06 00:00:00
+202,Ewelina,Zając,customer202@example.com,+48500000202,United Kingdom,Edinburgh,True,2024-07-08 00:00:00
+203,Maria,Kaczmarek,customer203@example.com,+48500000203,Germany,Frankfurt,True,2024-08-03 00:00:00
+204,Anna,Jankowska,customer204@example.com,+48500000204,Germany,Frankfurt,True,2024-04-14 00:00:00
+205,Marcin,Grabowski,customer205@example.com,+48500000205,Germany,Berlin,True,2024-11-25 00:00:00
+206,David,Krawczyk,customer206@example.com,+48500000206,United States,Chicago,True,2024-09-22 00:00:00
+207,Andrzej,Majewska,customer207@example.com,+48500000207,France,Toulouse,True,2024-09-21 00:00:00
+208,Paweł,Kamiński,customer208@example.com,+48500000208,Poland,Poznań,True,2024-01-29 00:00:00
+209,Elena,Wojciechowska,customer209@example.com,+48500000209,Germany,Cologne,True,2024-12-02 00:00:00
+210,Andrzej,Michalska,customer210@example.com,+48500000210,United Kingdom,Glasgow,True,2024-02-12 00:00:00
+211,Michał,Dąbrowska,customer211@example.com,+48500000211,Germany,Cologne,True,2024-06-17 00:00:00
+212,Agnieszka,Kwiatkowski,customer212@example.com,+48500000212,Germany,Munich,True,2024-01-16 00:00:00
+213,Barbara,Zając,customer213@example.com,+48500000213,Germany,Hamburg,True,2024-07-07 00:00:00
+214,James,Grabowski,customer214@example.com,+48500000214,United States,Chicago,True,2024-01-04 00:00:00
+215,Ewa,Brown,customer215@example.com,+48500000215,France,Paris,True,2024-04-07 00:00:00
+216,Elena,Brown,customer216@example.com,+48500000216,United Kingdom,London,True,2024-11-17 00:00:00
+217,Ewelina,Smith,customer217@example.com,+48500000217,United States,Los Angeles,True,2024-07-15 00:00:00
+218,Monika,Szymańska,customer218@example.com,+48500000218,United States,New York,True,2024-06-19 00:00:00
+219,Karolina,Jankowska,customer219@example.com,+48500000219,France,Lyon,True,2024-08-01 00:00:00
+220,Natalia,Smith,customer220@example.com,+48500000220,United Kingdom,Birmingham,True,2024-03-17 00:00:00
+221,Łukasz,Nowak,customer221@example.com,+48500000221,France,Nice,True,2024-05-12 00:00:00
+222,Laura,Brown,customer222@example.com,+48500000222,United Kingdom,Manchester,True,2024-06-04 00:00:00
+223,Katarzyna,Pawłowski,customer223@example.com,+48500000223,Poland,Wrocław,True,2024-09-17 00:00:00
+224,James,Grabowski,customer224@example.com,+48500000224,United States,Chicago,True,2024-01-30 00:00:00
+225,Agnieszka,Majewska,customer225@example.com,+48500000225,France,Marseille,True,2024-03-16 00:00:00
+226,Natalia,Garcia,customer226@example.com,+48500000226,France,Nice,True,2024-12-13 00:00:00
+227,Jakub,Wójcik,customer227@example.com,+48500000227,United States,Chicago,True,2024-11-18 00:00:00
+228,Magdalena,Kozłowski,customer228@example.com,+48500000228,United States,Chicago,True,2024-12-01 00:00:00
+229,Adam,Johnson,customer229@example.com,+48500000229,United States,New York,True,2024-08-17 00:00:00
+230,Barbara,Zając,customer230@example.com,+48500000230,Germany,Hamburg,True,2024-02-08 00:00:00
+231,Karolina,Zieliński,customer231@example.com,+48500000231,Poland,Szczecin,True,2024-04-06 00:00:00
+232,Maria,Kaczmarek,customer232@example.com,+48500000232,Germany,Frankfurt,True,2024-11-08 00:00:00
+233,John,Smith,customer233@example.com,+48500000233,United Kingdom,Glasgow,True,2024-05-08 00:00:00
+234,Andrzej,Michalska,customer234@example.com,+48500000234,United Kingdom,Glasgow,True,2024-05-03 00:00:00
+235,Marek,Zając,customer235@example.com,+48500000235,United States,Los Angeles,True,2024-11-25 00:00:00
+236,John,Kaczmarek,customer236@example.com,+48500000236,United States,New York,True,2024-03-21 00:00:00
+237,Krzysztof,Kowalczyk,customer237@example.com,+48500000237,Poland,Łódź,True,2024-05-07 00:00:00
+238,Natalia,Garcia,customer238@example.com,+48500000238,France,Nice,True,2024-02-04 00:00:00
+239,Alicja,Kamiński,customer239@example.com,+48500000239,Poland,Kraków,True,2024-09-30 00:00:00
+240,Adam,Kwiatkowski,customer240@example.com,+48500000240,United Kingdom,Manchester,True,2024-05-08 00:00:00
+241,Wojciech,Zając,customer241@example.com,+48500000241,United Kingdom,Glasgow,True,2024-01-15 00:00:00
+242,Karolina,Jankowska,customer242@example.com,+48500000242,France,Lyon,True,2024-05-31 00:00:00
+243,Andrzej,Pawłowski,customer243@example.com,+48500000243,United Kingdom,Birmingham,True,2024-05-25 00:00:00
+244,Piotr,Majewska,customer244@example.com,+48500000244,Poland,Łódź,True,2024-04-19 00:00:00
+245,Adam,Lewandowska,customer245@example.com,+48500000245,France,Marseille,True,2024-01-08 00:00:00
+246,Katarzyna,Kozłowski,customer246@example.com,+48500000246,France,Lyon,True,2024-10-30 00:00:00
+247,Emma,Adamczyk,customer247@example.com,+48500000247,United Kingdom,Manchester,True,2024-01-31 00:00:00
+248,Krzysztof,Woźniak,customer248@example.com,+48500000248,United States,Chicago,True,2024-12-10 00:00:00
+249,Elena,Wiśniewska,customer249@example.com,+48500000249,United States,Houston,True,2024-08-05 00:00:00
+250,Andrzej,Dąbrowska,customer250@example.com,+48500000250,Germany,Cologne,True,2024-08-08 00:00:00
+251,Tomasz,Majewska,customer251@example.com,+48500000251,United States,Los Angeles,True,2024-10-13 00:00:00
+252,Monika,Kozłowski,customer252@example.com,+48500000252,United Kingdom,Glasgow,True,2024-01-22 00:00:00
+253,Andrzej,Pawłowski,customer253@example.com,+48500000253,United Kingdom,Birmingham,True,2024-12-25 00:00:00
+254,Małgorzata,Krawczyk,customer254@example.com,+48500000254,United Kingdom,London,True,2024-09-28 00:00:00
+255,Jan,Kozłowski,customer255@example.com,+48500000255,United Kingdom,Birmingham,True,2024-03-02 00:00:00
+256,Agnieszka,Majewska,customer256@example.com,+48500000256,France,Marseille,True,2024-05-26 00:00:00
+257,Piotr,Pawłowski,customer257@example.com,+48500000257,Poland,Poznań,True,2024-08-25 00:00:00
+258,John,Wiśniewska,customer258@example.com,+48500000258,United Kingdom,Glasgow,True,2024-07-03 00:00:00
+259,John,Kaczmarek,customer259@example.com,+48500000259,United States,New York,True,2024-02-01 00:00:00
+260,James,Wojciechowska,customer260@example.com,+48500000260,United Kingdom,Birmingham,True,2024-04-02 00:00:00
+261,Małgorzata,Johnson,customer261@example.com,+48500000261,United Kingdom,Glasgow,True,2024-10-16 00:00:00
+262,Maria,Szymańska,customer262@example.com,+48500000262,United Kingdom,Manchester,True,2024-05-10 00:00:00
+263,Natalia,Garcia,customer263@example.com,+48500000263,United Kingdom,Edinburgh,True,2024-08-30 00:00:00
+264,Marek,Wiśniewska,customer264@example.com,+48500000264,United States,Phoenix,True,2024-06-25 00:00:00
+265,Natalia,Wiśniewska,customer265@example.com,+48500000265,United States,Houston,True,2024-01-22 00:00:00
+266,James,Wiśniewska,customer266@example.com,+48500000266,United Kingdom,Glasgow,True,2024-02-29 00:00:00
+267,Emma,Kamiński,customer267@example.com,+48500000267,Germany,Munich,True,2024-11-26 00:00:00
+268,Katarzyna,Majewska,customer268@example.com,+48500000268,Germany,Cologne,True,2024-12-18 00:00:00
+269,John,Kaczmarek,customer269@example.com,+48500000269,United States,New York,True,2024-06-25 00:00:00
+270,Alicja,Kowalczyk,customer270@example.com,+48500000270,Poland,Katowice,True,2024-03-19 00:00:00
+271,Adam,Brown,customer271@example.com,+48500000271,Germany,Berlin,True,2024-03-13 00:00:00
+272,Anna,Brown,customer272@example.com,+48500000272,United Kingdom,Birmingham,True,2024-08-07 00:00:00
+273,Grzegorz,Wieczorek,customer273@example.com,+48500000273,Poland,Łódź,True,2024-11-20 00:00:00
+274,David,Krawczyk,customer274@example.com,+48500000274,United States,Chicago,True,2024-10-15 00:00:00
+275,Andrzej,Dąbrowska,customer275@example.com,+48500000275,Germany,Cologne,True,2024-12-27 00:00:00
+276,Marcin,Grabowski,customer276@example.com,+48500000276,Germany,Berlin,True,2024-07-03 00:00:00
+277,Grzegorz,Wieczorek,customer277@example.com,+48500000277,Poland,Łódź,True,2024-05-24 00:00:00
+278,Mateusz,Piotrowska,customer278@example.com,+48500000278,France,Paris,True,2024-02-26 00:00:00
+279,Marek,Zając,customer279@example.com,+48500000279,United States,Los Angeles,True,2024-08-07 00:00:00
+280,Katarzyna,Pawłowski,customer280@example.com,+48500000280,Poland,Wrocław,True,2024-11-11 00:00:00
+281,Andrzej,Zieliński,customer281@example.com,+48500000281,United Kingdom,Edinburgh,True,2024-10-26 00:00:00
+282,James,Wiśniewska,customer282@example.com,+48500000282,United Kingdom,Glasgow,True,2024-08-25 00:00:00
+283,Katarzyna,Pawłowski,customer283@example.com,+48500000283,Poland,Wrocław,True,2024-09-18 00:00:00
+284,Monika,Nowak,customer284@example.com,+48500000284,United Kingdom,Birmingham,True,2024-04-26 00:00:00
+285,Ewelina,Zieliński,customer285@example.com,+48500000285,France,Toulouse,True,2024-06-26 00:00:00
+286,Emma,Kamiński,customer286@example.com,+48500000286,Germany,Munich,True,2024-10-15 00:00:00
+287,Elena,Brown,customer287@example.com,+48500000287,United Kingdom,London,True,2024-04-30 00:00:00
+288,Jakub,Jankowska,customer288@example.com,+48500000288,Poland,Wrocław,True,2024-05-05 00:00:00
+289,Michael,Dudek,customer289@example.com,+48500000289,France,Marseille,True,2024-05-31 00:00:00
+290,Paweł,Kamiński,customer290@example.com,+48500000290,France,Marseille,True,2024-02-18 00:00:00
+291,Łukasz,Nowak,customer291@example.com,+48500000291,France,Nice,True,2024-02-29 00:00:00
+292,John,Kaczmarek,customer292@example.com,+48500000292,United States,New York,True,2024-04-19 00:00:00
+293,Adam,Johnson,customer293@example.com,+48500000293,United States,New York,True,2024-02-05 00:00:00
+294,Natalia,Adamczyk,customer294@example.com,+48500000294,United States,Houston,True,2024-03-29 00:00:00
+295,Ewelina,Smith,customer295@example.com,+48500000295,United States,Los Angeles,True,2024-01-14 00:00:00
+296,Sarah,Grabowski,customer296@example.com,+48500000296,Germany,Hamburg,True,2024-04-21 00:00:00
+297,Ewa,Kozłowski,customer297@example.com,+48500000297,France,Toulouse,True,2024-07-29 00:00:00
+298,John,Smith,customer298@example.com,+48500000298,United Kingdom,Glasgow,True,2024-07-14 00:00:00
+299,Wojciech,Zając,customer299@example.com,+48500000299,United Kingdom,Glasgow,True,2024-03-04 00:00:00
+300,Karolina,Brown,customer300@example.com,+48500000300,United Kingdom,Edinburgh,True,2024-02-14 00:00:00
+301,Alicja,Kamiński,customer301@example.com,+48500000301,Poland,Kraków,True,2024-01-15 00:00:00
+302,Karolina,Jankowska,customer302@example.com,+48500000302,France,Lyon,True,2024-08-08 00:00:00
+303,Magdalena,Wiśniewska,customer303@example.com,+48500000303,United Kingdom,Birmingham,True,2024-06-20 00:00:00
+304,James,Grabowski,customer304@example.com,+48500000304,United States,Chicago,True,2024-01-06 00:00:00
+305,Grzegorz,Dąbrowska,customer305@example.com,+48500000305,France,Lyon,True,2024-04-28 00:00:00
+306,Tomasz,Kaczmarek,customer306@example.com,+48500000306,France,Lyon,True,2024-02-17 00:00:00
+307,Mateusz,Kaczmarek,customer307@example.com,+48500000307,Poland,Warszawa,True,2024-06-05 00:00:00
+308,Anna,Szymańska,customer308@example.com,+48500000308,United Kingdom,Manchester,True,2024-05-16 00:00:00
+309,Monika,Kozłowski,customer309@example.com,+48500000309,United Kingdom,Glasgow,True,2024-02-23 00:00:00
+310,Dorota,Miller,customer310@example.com,+48500000310,Poland,Katowice,True,2024-06-24 00:00:00
+311,Maria,Szymańska,customer311@example.com,+48500000311,United Kingdom,Manchester,True,2024-09-09 00:00:00
+312,Grzegorz,Lewandowska,customer312@example.com,+48500000312,France,Marseille,True,2024-05-30 00:00:00
+313,Monika,Wojciechowska,customer313@example.com,+48500000313,United Kingdom,Glasgow,True,2024-11-08 00:00:00
+314,Joanna,Szymańska,customer314@example.com,+48500000314,Poland,Łódź,True,2024-06-14 00:00:00
+315,Laura,Jabłoński,customer315@example.com,+48500000315,France,Lyon,True,2024-06-02 00:00:00
+316,Karolina,Piotrowska,customer316@example.com,+48500000316,United Kingdom,Manchester,True,2024-10-17 00:00:00
+317,Adam,Johnson,customer317@example.com,+48500000317,United States,New York,True,2024-12-24 00:00:00
+318,Andrzej,Dąbrowska,customer318@example.com,+48500000318,Germany,Cologne,True,2024-06-24 00:00:00
+319,Agnieszka,Kwiatkowski,customer319@example.com,+48500000319,Germany,Munich,True,2024-09-13 00:00:00
+320,Dorota,Miller,customer320@example.com,+48500000320,Poland,Katowice,True,2024-05-31 00:00:00
+321,Katarzyna,Kozłowski,customer321@example.com,+48500000321,France,Lyon,True,2024-09-02 00:00:00
+322,Krzysztof,Kowalczyk,customer322@example.com,+48500000322,Poland,Łódź,True,2024-10-11 00:00:00
+323,Monika,Nowak,customer323@example.com,+48500000323,United Kingdom,Birmingham,True,2024-07-17 00:00:00
+324,Monika,Wojciechowska,customer324@example.com,+48500000324,United Kingdom,Glasgow,True,2024-03-22 00:00:00
+325,Jan,Grabowski,customer325@example.com,+48500000325,United States,Chicago,True,2024-07-25 00:00:00
+326,Łukasz,Nowak,customer326@example.com,+48500000326,United Kingdom,Glasgow,True,2024-10-02 00:00:00
+327,David,Woźniak,customer327@example.com,+48500000327,Poland,Gdańsk,True,2024-01-17 00:00:00
+328,James,Wiśniewska,customer328@example.com,+48500000328,United Kingdom,Glasgow,True,2024-02-01 00:00:00
+329,Emma,Kamiński,customer329@example.com,+48500000329,Germany,Munich,True,2024-02-08 00:00:00
+330,Paweł,Kamiński,customer330@example.com,+48500000330,France,Marseille,True,2024-10-30 00:00:00
+331,Adam,Zając,customer331@example.com,+48500000331,United States,Los Angeles,True,2024-07-14 00:00:00
+332,Tomasz,Williams,customer332@example.com,+48500000332,Poland,Kraków,True,2024-12-24 00:00:00
+333,Wojciech,Lewandowska,customer333@example.com,+48500000333,United States,Chicago,True,2024-05-18 00:00:00
+334,Ewelina,Smith,customer334@example.com,+48500000334,United States,Los Angeles,True,2024-08-19 00:00:00
+335,John,Smith,customer335@example.com,+48500000335,United Kingdom,Glasgow,True,2024-11-04 00:00:00
+336,Laura,Wieczorek,customer336@example.com,+48500000336,France,Lyon,True,2024-11-21 00:00:00
+337,Grzegorz,Zieliński,customer337@example.com,+48500000337,United Kingdom,Glasgow,True,2024-11-13 00:00:00
+338,Sophie,Jabłoński,customer338@example.com,+48500000338,United States,Chicago,True,2024-12-17 00:00:00
+339,Mateusz,Michalska,customer339@example.com,+48500000339,Poland,Gdańsk,True,2024-06-18 00:00:00
+340,Anna,Lewandowska,customer340@example.com,+48500000340,France,Marseille,True,2024-11-04 00:00:00
+341,Michael,Michalska,customer341@example.com,+48500000341,United States,Houston,True,2024-04-16 00:00:00
+342,Małgorzata,Jabłoński,customer342@example.com,+48500000342,United Kingdom,London,True,2024-08-16 00:00:00
+343,Ewa,Kozłowski,customer343@example.com,+48500000343,France,Toulouse,True,2024-07-09 00:00:00
+344,Michael,Dudek,customer344@example.com,+48500000344,France,Marseille,True,2024-03-15 00:00:00
+345,Paweł,Williams,customer345@example.com,+48500000345,Germany,Hamburg,True,2024-08-25 00:00:00
+346,Wojciech,Jabłoński,customer346@example.com,+48500000346,United States,Houston,True,2024-07-27 00:00:00
+347,Krzysztof,Kowalczyk,customer347@example.com,+48500000347,Poland,Łódź,True,2024-07-17 00:00:00
+348,Małgorzata,Jabłoński,customer348@example.com,+48500000348,United Kingdom,London,True,2024-12-09 00:00:00
+349,Paweł,Kamiński,customer349@example.com,+48500000349,France,Marseille,True,2024-01-22 00:00:00
+350,Karolina,Brown,customer350@example.com,+48500000350,United Kingdom,Edinburgh,True,2024-05-03 00:00:00
+351,Anna,Jankowska,customer351@example.com,+48500000351,Germany,Frankfurt,True,2024-04-27 00:00:00
+352,Paweł,Wiśniewska,customer352@example.com,+48500000352,France,Toulouse,True,2024-05-18 00:00:00
+353,Paweł,Majewska,customer353@example.com,+48500000353,United States,Houston,True,2024-02-19 00:00:00
+354,Elena,Wojciechowska,customer354@example.com,+48500000354,Germany,Cologne,True,2024-01-19 00:00:00
+355,Sophie,Johnson,customer355@example.com,+48500000355,United States,Phoenix,True,2024-04-09 00:00:00
+356,Grzegorz,Johnson,customer356@example.com,+48500000356,Poland,Szczecin,True,2024-03-13 00:00:00
+357,David,Wiśniewska,customer357@example.com,+48500000357,France,Paris,True,2024-10-10 00:00:00
+358,Barbara,Jones,customer358@example.com,+48500000358,Germany,Berlin,True,2024-06-04 00:00:00
+359,Wojciech,Piotrowska,customer359@example.com,+48500000359,United States,Houston,True,2024-01-29 00:00:00
+360,Wojciech,Kamiński,customer360@example.com,+48500000360,Germany,Hamburg,True,2024-07-06 00:00:00
+361,Krzysztof,Woźniak,customer361@example.com,+48500000361,United States,Chicago,True,2024-09-27 00:00:00
+362,James,Smith,customer362@example.com,+48500000362,United Kingdom,Edinburgh,True,2024-09-14 00:00:00
+363,Michael,Wojciechowska,customer363@example.com,+48500000363,United States,Los Angeles,True,2024-02-08 00:00:00
+364,Adam,Johnson,customer364@example.com,+48500000364,Germany,Hamburg,True,2024-05-05 00:00:00
+365,Sophie,Kowalczyk,customer365@example.com,+48500000365,United Kingdom,Edinburgh,True,2024-12-02 00:00:00
+366,Michael,Michalska,customer366@example.com,+48500000366,United States,Houston,True,2024-05-25 00:00:00
+367,Emma,Kamiński,customer367@example.com,+48500000367,Germany,Munich,True,2024-09-17 00:00:00
+368,Dorota,Kozłowski,customer368@example.com,+48500000368,Germany,Hamburg,True,2024-08-14 00:00:00
+369,Paweł,Wiśniewska,customer369@example.com,+48500000369,France,Toulouse,True,2024-09-02 00:00:00
+370,Wojciech,Kamiński,customer370@example.com,+48500000370,Germany,Hamburg,True,2024-09-22 00:00:00
+371,Elena,Garcia,customer371@example.com,+48500000371,Germany,Hamburg,True,2024-06-14 00:00:00
+372,Marcin,Kwiatkowski,customer372@example.com,+48500000372,Germany,Frankfurt,True,2024-06-15 00:00:00
+373,Laura,Brown,customer373@example.com,+48500000373,United Kingdom,Manchester,True,2024-07-27 00:00:00
+374,Laura,Wojciechowska,customer374@example.com,+48500000374,Germany,Frankfurt,True,2024-04-20 00:00:00
+375,Krzysztof,Kowalczyk,customer375@example.com,+48500000375,United States,Houston,True,2024-08-10 00:00:00
+376,Grzegorz,Zieliński,customer376@example.com,+48500000376,United Kingdom,Glasgow,True,2024-02-11 00:00:00
+377,Elena,Brown,customer377@example.com,+48500000377,United Kingdom,London,True,2024-12-12 00:00:00
+378,Jan,Nowak,customer378@example.com,+48500000378,United States,Los Angeles,True,2024-12-04 00:00:00
+379,Andrzej,Smith,customer379@example.com,+48500000379,United States,New York,True,2024-12-15 00:00:00
+380,Grzegorz,Lewandowska,customer380@example.com,+48500000380,France,Marseille,True,2024-04-21 00:00:00
+381,Agnieszka,Kwiatkowski,customer381@example.com,+48500000381,Germany,Munich,True,2024-04-15 00:00:00
+382,Ewelina,Zając,customer382@example.com,+48500000382,United Kingdom,Edinburgh,True,2024-09-16 00:00:00
+383,Ewelina,Zając,customer383@example.com,+48500000383,United Kingdom,Edinburgh,True,2024-03-07 00:00:00
+384,Katarzyna,Kozłowski,customer384@example.com,+48500000384,France,Lyon,True,2024-02-25 00:00:00
+385,Joanna,Kwiatkowski,customer385@example.com,+48500000385,Poland,Warszawa,True,2024-09-05 00:00:00
+386,Mateusz,Piotrowska,customer386@example.com,+48500000386,France,Paris,True,2024-05-17 00:00:00
+387,Adam,Lewandowska,customer387@example.com,+48500000387,France,Marseille,True,2024-04-10 00:00:00
+388,Ewelina,Zając,customer388@example.com,+48500000388,United Kingdom,Edinburgh,True,2024-11-19 00:00:00
+389,Andrzej,Kowalczyk,customer389@example.com,+48500000389,United Kingdom,London,True,2024-12-25 00:00:00
+390,Wojciech,Lewandowska,customer390@example.com,+48500000390,United States,Chicago,True,2024-02-19 00:00:00
+391,Grzegorz,Dąbrowska,customer391@example.com,+48500000391,France,Lyon,True,2024-11-14 00:00:00
+392,Monika,Nowak,customer392@example.com,+48500000392,United Kingdom,Birmingham,True,2024-03-25 00:00:00
+393,Maria,Grabowski,customer393@example.com,+48500000393,United States,Los Angeles,True,2024-12-12 00:00:00
+394,Jan,Kaczmarek,customer394@example.com,+48500000394,Germany,Cologne,True,2024-12-18 00:00:00
+395,Ewa,Kozłowski,customer395@example.com,+48500000395,France,Toulouse,True,2024-04-29 00:00:00
+396,Tomasz,Zieliński,customer396@example.com,+48500000396,Poland,Gdańsk,True,2024-04-09 00:00:00
+397,Laura,Wieczorek,customer397@example.com,+48500000397,France,Lyon,True,2024-06-19 00:00:00
+398,Anna,Szymańska,customer398@example.com,+48500000398,United Kingdom,Manchester,True,2024-06-06 00:00:00
+399,Mateusz,Kaczmarek,customer399@example.com,+48500000399,Poland,Warszawa,True,2024-06-27 00:00:00
+400,Monika,Kozłowski,customer400@example.com,+48500000400,United Kingdom,Glasgow,True,2024-12-23 00:00:00
+401,Jan,Zając,customer401@example.com,+48500000401,United States,Phoenix,True,2024-04-04 00:00:00
+402,Sarah,Majewska,customer402@example.com,+48500000402,Germany,Hamburg,True,2024-11-24 00:00:00
+403,Tomasz,Kaczmarek,customer403@example.com,+48500000403,France,Lyon,True,2024-08-26 00:00:00
+404,Jan,Lewandowska,customer404@example.com,+48500000404,Germany,Munich,True,2024-10-13 00:00:00
+405,Mateusz,Grabowski,customer405@example.com,+48500000405,Poland,Łódź,True,2024-12-25 00:00:00
+406,Anna,Szymańska,customer406@example.com,+48500000406,United Kingdom,Manchester,True,2024-09-08 00:00:00
+407,Krzysztof,Kowalczyk,customer407@example.com,+48500000407,Poland,Łódź,True,2024-01-05 00:00:00
+408,Paweł,Kamiński,customer408@example.com,+48500000408,France,Marseille,True,2024-05-11 00:00:00
+409,Sophie,Johnson,customer409@example.com,+48500000409,United States,Phoenix,True,2024-10-21 00:00:00
+410,Ewa,Brown,customer410@example.com,+48500000410,France,Paris,True,2024-08-01 00:00:00
+411,Dorota,Miller,customer411@example.com,+48500000411,Poland,Katowice,True,2024-06-30 00:00:00
+412,Wojciech,Jabłoński,customer412@example.com,+48500000412,United States,Houston,True,2024-11-08 00:00:00
+413,Mateusz,Jabłoński,customer413@example.com,+48500000413,Germany,Cologne,True,2024-04-14 00:00:00
+414,Jan,Lewandowska,customer414@example.com,+48500000414,Germany,Munich,True,2024-07-30 00:00:00
+415,Andrzej,Michalska,customer415@example.com,+48500000415,United Kingdom,Glasgow,True,2024-08-10 00:00:00
+416,Mateusz,Piotrowska,customer416@example.com,+48500000416,France,Paris,True,2024-01-28 00:00:00
+417,Marek,Majewska,customer417@example.com,+48500000417,Poland,Kraków,True,2024-01-15 00:00:00
+418,Andrzej,Kowalczyk,customer418@example.com,+48500000418,United Kingdom,London,True,2024-09-16 00:00:00
+419,Laura,Wojciechowska,customer419@example.com,+48500000419,Germany,Frankfurt,True,2024-06-01 00:00:00
+420,Alicja,Kamiński,customer420@example.com,+48500000420,Poland,Kraków,True,2024-12-14 00:00:00
+421,Adam,Lewandowska,customer421@example.com,+48500000421,France,Marseille,True,2024-08-27 00:00:00
+422,Jakub,Wójcik,customer422@example.com,+48500000422,United States,Chicago,True,2024-07-17 00:00:00
+423,Katarzyna,Pawłowski,customer423@example.com,+48500000423,Poland,Wrocław,True,2024-06-10 00:00:00
+424,Grzegorz,Wieczorek,customer424@example.com,+48500000424,Poland,Łódź,True,2024-12-07 00:00:00
+425,David,Mazur,customer425@example.com,+48500000425,Poland,Łódź,True,2024-07-18 00:00:00
+426,Dorota,Jones,customer426@example.com,+48500000426,United States,Phoenix,True,2024-05-30 00:00:00
+427,Michael,Michalska,customer427@example.com,+48500000427,United States,Houston,True,2024-03-18 00:00:00
+428,Katarzyna,Pawłowski,customer428@example.com,+48500000428,Poland,Wrocław,True,2024-11-11 00:00:00
+429,Ewelina,Johnson,customer429@example.com,+48500000429,United States,Los Angeles,True,2024-02-11 00:00:00
+430,Piotr,Krawczyk,customer430@example.com,+48500000430,United States,Phoenix,True,2024-12-03 00:00:00
+431,Ewa,Brown,customer431@example.com,+48500000431,France,Paris,True,2024-08-19 00:00:00
+432,Maria,Grabowski,customer432@example.com,+48500000432,United States,Los Angeles,True,2024-12-14 00:00:00
+433,Katarzyna,Kozłowski,customer433@example.com,+48500000433,France,Lyon,True,2024-02-23 00:00:00
+434,Monika,Szymańska,customer434@example.com,+48500000434,United States,New York,True,2024-12-13 00:00:00
+435,Natalia,Smith,customer435@example.com,+48500000435,France,Marseille,True,2024-11-21 00:00:00
+436,Tomasz,Majewska,customer436@example.com,+48500000436,United States,Los Angeles,True,2024-09-21 00:00:00
+437,Agnieszka,Majewska,customer437@example.com,+48500000437,France,Marseille,True,2024-11-16 00:00:00
+438,Katarzyna,Pawłowski,customer438@example.com,+48500000438,Poland,Katowice,True,2024-07-19 00:00:00
+439,Wojciech,Piotrowska,customer439@example.com,+48500000439,United States,Houston,True,2024-06-17 00:00:00
+440,Małgorzata,Wiśniewska,customer440@example.com,+48500000440,Germany,Munich,True,2024-11-04 00:00:00
+441,Mateusz,Kaczmarek,customer441@example.com,+48500000441,Poland,Warszawa,True,2024-10-28 00:00:00
+442,Natalia,Smith,customer442@example.com,+48500000442,France,Marseille,True,2024-11-09 00:00:00
+443,Sarah,Miller,customer443@example.com,+48500000443,France,Nice,True,2024-05-03 00:00:00
+444,Grzegorz,Dąbrowska,customer444@example.com,+48500000444,France,Lyon,True,2024-11-13 00:00:00
+445,Paweł,Wiśniewska,customer445@example.com,+48500000445,France,Toulouse,True,2024-12-13 00:00:00
+446,Marcin,Johnson,customer446@example.com,+48500000446,United States,Chicago,True,2024-02-21 00:00:00
+447,Tomasz,Lewandowska,customer447@example.com,+48500000447,United States,Los Angeles,True,2024-09-15 00:00:00
+448,Marek,Majewska,customer448@example.com,+48500000448,Poland,Kraków,True,2024-09-07 00:00:00
+449,Michael,Dąbrowska,customer449@example.com,+48500000449,Poland,Łódź,True,2024-09-05 00:00:00
+450,David,Woźniak,customer450@example.com,+48500000450,United Kingdom,Glasgow,True,2024-02-07 00:00:00
+451,Michael,Kozłowski,customer451@example.com,+48500000451,Germany,Munich,True,2024-06-27 00:00:00
+452,Andrzej,Jabłoński,customer452@example.com,+48500000452,United States,Los Angeles,True,2024-09-30 00:00:00
+453,Karolina,Zieliński,customer453@example.com,+48500000453,Poland,Szczecin,True,2024-02-13 00:00:00
+454,Natalia,Wiśniewska,customer454@example.com,+48500000454,United States,Houston,True,2024-03-28 00:00:00
+455,Ewelina,Johnson,customer455@example.com,+48500000455,United States,Los Angeles,True,2024-12-25 00:00:00
+456,Jakub,Wójcik,customer456@example.com,+48500000456,United States,Chicago,True,2024-03-10 00:00:00
+457,Jan,Nowak,customer457@example.com,+48500000457,United States,Los Angeles,True,2024-11-23 00:00:00
+458,Krzysztof,Krawczyk,customer458@example.com,+48500000458,France,Lyon,True,2024-07-31 00:00:00
+459,Piotr,Majewska,customer459@example.com,+48500000459,Poland,Łódź,True,2024-01-28 00:00:00
+460,Andrzej,Kowalczyk,customer460@example.com,+48500000460,United Kingdom,London,True,2024-05-30 00:00:00
+461,Tomasz,Kaczmarek,customer461@example.com,+48500000461,France,Lyon,True,2024-05-28 00:00:00
+462,David,Lewandowska,customer462@example.com,+48500000462,Poland,Warszawa,True,2024-11-03 00:00:00
+463,Adam,Kwiatkowski,customer463@example.com,+48500000463,United Kingdom,Manchester,True,2024-10-18 00:00:00
+464,Adam,Zając,customer464@example.com,+48500000464,United States,Los Angeles,True,2024-02-06 00:00:00
+465,Piotr,Majewska,customer465@example.com,+48500000465,Poland,Łódź,True,2024-12-22 00:00:00
+466,Michael,Dudek,customer466@example.com,+48500000466,France,Marseille,True,2024-05-12 00:00:00
+467,Elena,Piotrowska,customer467@example.com,+48500000467,Germany,Berlin,True,2024-06-13 00:00:00
+468,Tomasz,Majewska,customer468@example.com,+48500000468,United States,Los Angeles,True,2024-09-24 00:00:00
+469,Karolina,Brown,customer469@example.com,+48500000469,United Kingdom,Edinburgh,True,2024-03-22 00:00:00
+470,Michael,Dudek,customer470@example.com,+48500000470,France,Marseille,True,2024-05-13 00:00:00
+471,Anna,Pawłowski,customer471@example.com,+48500000471,United Kingdom,Manchester,True,2024-03-19 00:00:00
+472,Karolina,Brown,customer472@example.com,+48500000472,United Kingdom,Edinburgh,True,2024-11-25 00:00:00
+473,Michael,Dudek,customer473@example.com,+48500000473,France,Marseille,True,2024-08-25 00:00:00
+474,Ewelina,Szymańska,customer474@example.com,+48500000474,United States,Phoenix,True,2024-02-21 00:00:00
+475,Alicja,Kowalczyk,customer475@example.com,+48500000475,Poland,Katowice,True,2024-02-25 00:00:00
+476,Maria,Szymańska,customer476@example.com,+48500000476,United Kingdom,Manchester,True,2024-07-16 00:00:00
+477,Dorota,Miller,customer477@example.com,+48500000477,Poland,Katowice,True,2024-01-23 00:00:00
+478,David,Wiśniewska,customer478@example.com,+48500000478,France,Paris,True,2024-11-03 00:00:00
+479,Sophie,Johnson,customer479@example.com,+48500000479,United States,Phoenix,True,2024-04-10 00:00:00
+480,Krzysztof,Woźniak,customer480@example.com,+48500000480,United States,Chicago,True,2024-05-27 00:00:00
+481,Anna,Jankowska,customer481@example.com,+48500000481,Germany,Frankfurt,True,2024-12-03 00:00:00
+482,Andrzej,Krawczyk,customer482@example.com,+48500000482,United States,Phoenix,True,2024-09-05 00:00:00
+483,Dorota,Zając,customer483@example.com,+48500000483,United Kingdom,Edinburgh,True,2024-08-22 00:00:00
+484,Ewa,Adamczyk,customer484@example.com,+48500000484,United Kingdom,Edinburgh,True,2024-06-30 00:00:00
+485,James,Grabowski,customer485@example.com,+48500000485,United States,Chicago,True,2024-12-11 00:00:00
+486,Laura,Jabłoński,customer486@example.com,+48500000486,France,Lyon,True,2024-09-27 00:00:00
+487,Andrzej,Krawczyk,customer487@example.com,+48500000487,United States,Phoenix,True,2024-10-16 00:00:00
+488,Marcin,Kwiatkowski,customer488@example.com,+48500000488,Germany,Frankfurt,True,2024-03-22 00:00:00
+489,Natalia,Garcia,customer489@example.com,+48500000489,United Kingdom,Edinburgh,True,2024-08-26 00:00:00
+490,Paweł,Kamiński,customer490@example.com,+48500000490,France,Marseille,True,2024-10-26 00:00:00
+491,Andrzej,Smith,customer491@example.com,+48500000491,United States,New York,True,2024-12-25 00:00:00
+492,Grzegorz,Lewandowska,customer492@example.com,+48500000492,France,Marseille,True,2024-03-03 00:00:00
+493,Dorota,Wieczorek,customer493@example.com,+48500000493,Poland,Wrocław,True,2024-01-06 00:00:00
+494,Barbara,Miller,customer494@example.com,+48500000494,France,Nice,True,2024-09-11 00:00:00
+495,David,Mazur,customer495@example.com,+48500000495,Poland,Łódź,True,2024-01-15 00:00:00
+496,Ewa,Kozłowski,customer496@example.com,+48500000496,France,Toulouse,True,2024-07-03 00:00:00
+497,Laura,Wojciechowska,customer497@example.com,+48500000497,Germany,Frankfurt,True,2024-10-16 00:00:00
+498,Marek,Kowalczyk,customer498@example.com,+48500000498,United Kingdom,London,True,2024-09-02 00:00:00
+499,Katarzyna,Pawłowski,customer499@example.com,+48500000499,Poland,Wrocław,True,2024-07-05 00:00:00
+500,Jakub,Wójcik,customer500@example.com,+48500000500,United States,Chicago,True,2024-05-29 00:00:00
+501,Andrzej,Zieliński,customer501@example.com,+48500000501,United Kingdom,Edinburgh,True,2024-01-10 00:00:00
+502,Maria,Wojciechowska,customer502@example.com,+48500000502,Germany,Hamburg,True,2024-08-29 00:00:00
+503,Ewelina,Johnson,customer503@example.com,+48500000503,United States,Los Angeles,True,2024-03-14 00:00:00
+504,Sophie,Jabłoński,customer504@example.com,+48500000504,United States,Chicago,True,2024-08-19 00:00:00
+505,Jan,Nowak,customer505@example.com,+48500000505,United States,Houston,True,2024-10-24 00:00:00
+506,Katarzyna,Kozłowski,customer506@example.com,+48500000506,France,Lyon,True,2024-08-09 00:00:00
+507,Adam,Lewandowska,customer507@example.com,+48500000507,France,Marseille,True,2024-05-05 00:00:00
+508,Katarzyna,Pawłowski,customer508@example.com,+48500000508,Poland,Wrocław,True,2024-07-30 00:00:00
+509,Grzegorz,Zieliński,customer509@example.com,+48500000509,United Kingdom,Glasgow,True,2024-12-17 00:00:00
+510,Wojciech,Zając,customer510@example.com,+48500000510,United Kingdom,Glasgow,True,2024-11-16 00:00:00
+511,David,Woźniak,customer511@example.com,+48500000511,Poland,Gdańsk,True,2024-05-24 00:00:00
+512,Katarzyna,Pawłowski,customer512@example.com,+48500000512,Poland,Katowice,True,2024-08-04 00:00:00
+513,Natalia,Garcia,customer513@example.com,+48500000513,France,Nice,True,2024-03-18 00:00:00
+514,James,Smith,customer514@example.com,+48500000514,United Kingdom,Edinburgh,True,2024-07-15 00:00:00
+515,Andrzej,Jabłoński,customer515@example.com,+48500000515,United States,Los Angeles,True,2024-11-10 00:00:00
+516,Anna,Davis,customer516@example.com,+48500000516,France,Toulouse,True,2024-04-21 00:00:00
+517,Magdalena,Kwiatkowski,customer517@example.com,+48500000517,France,Nice,True,2024-11-24 00:00:00
+518,Marcin,Kwiatkowski,customer518@example.com,+48500000518,Germany,Frankfurt,True,2024-06-30 00:00:00
+519,Grzegorz,Wieczorek,customer519@example.com,+48500000519,Poland,Łódź,True,2024-02-21 00:00:00
+520,Marcin,Grabowski,customer520@example.com,+48500000520,Germany,Berlin,True,2024-08-04 00:00:00
+521,Ewa,Adamczyk,customer521@example.com,+48500000521,United Kingdom,Edinburgh,True,2024-08-18 00:00:00
+522,Anna,Davis,customer522@example.com,+48500000522,France,Toulouse,True,2024-12-13 00:00:00
+523,Dorota,Kozłowski,customer523@example.com,+48500000523,Germany,Hamburg,True,2024-11-15 00:00:00
+524,Natalia,Wiśniewska,customer524@example.com,+48500000524,United States,Houston,True,2024-08-23 00:00:00
+525,Mateusz,Mazur,customer525@example.com,+48500000525,United States,Houston,True,2024-10-13 00:00:00
+526,Laura,Majewska,customer526@example.com,+48500000526,Poland,Kraków,True,2024-01-28 00:00:00
+527,Wojciech,Zając,customer527@example.com,+48500000527,United Kingdom,Glasgow,True,2024-09-22 00:00:00
+528,Andrzej,Jabłoński,customer528@example.com,+48500000528,United States,Los Angeles,True,2024-11-17 00:00:00
+529,Marek,Majewska,customer529@example.com,+48500000529,Poland,Kraków,True,2024-04-15 00:00:00
+530,Anna,Lewandowska,customer530@example.com,+48500000530,France,Marseille,True,2024-11-10 00:00:00
+531,David,Lewandowska,customer531@example.com,+48500000531,Poland,Warszawa,True,2024-06-20 00:00:00
+532,Karolina,Jankowska,customer532@example.com,+48500000532,France,Lyon,True,2024-01-27 00:00:00
+533,Natalia,Smith,customer533@example.com,+48500000533,United Kingdom,Birmingham,True,2024-08-08 00:00:00
+534,Jan,Zając,customer534@example.com,+48500000534,United States,Phoenix,True,2024-04-07 00:00:00
+535,Adam,Brown,customer535@example.com,+48500000535,Germany,Berlin,True,2024-02-18 00:00:00
+536,Krzysztof,Woźniak,customer536@example.com,+48500000536,United States,Chicago,True,2024-07-06 00:00:00
+537,Małgorzata,Johnson,customer537@example.com,+48500000537,Germany,Frankfurt,True,2024-03-31 00:00:00
+538,Katarzyna,Majewska,customer538@example.com,+48500000538,Germany,Cologne,True,2024-10-08 00:00:00
+539,Emma,Miller,customer539@example.com,+48500000539,Poland,Poznań,True,2024-09-26 00:00:00
+540,Wojciech,Piotrowska,customer540@example.com,+48500000540,United States,Houston,True,2024-07-21 00:00:00
+541,Sarah,Grabowski,customer541@example.com,+48500000541,Germany,Hamburg,True,2024-09-17 00:00:00
+542,Grzegorz,Johnson,customer542@example.com,+48500000542,Poland,Szczecin,True,2024-10-04 00:00:00
+543,Monika,Nowak,customer543@example.com,+48500000543,United Kingdom,Birmingham,True,2024-09-27 00:00:00
+544,Krzysztof,Krawczyk,customer544@example.com,+48500000544,France,Lyon,True,2024-08-09 00:00:00
+545,Krzysztof,Kowalczyk,customer545@example.com,+48500000545,United States,Houston,True,2024-04-02 00:00:00
+546,Adam,Kwiatkowski,customer546@example.com,+48500000546,United Kingdom,Manchester,True,2024-03-07 00:00:00
+547,Joanna,Kwiatkowski,customer547@example.com,+48500000547,Poland,Warszawa,True,2024-08-08 00:00:00
+548,Marcin,Kwiatkowski,customer548@example.com,+48500000548,Germany,Frankfurt,True,2024-05-16 00:00:00
+549,David,Zając,customer549@example.com,+48500000549,France,Paris,True,2024-06-19 00:00:00
+550,Andrzej,Zieliński,customer550@example.com,+48500000550,United Kingdom,Edinburgh,True,2024-10-25 00:00:00
+551,David,Woźniak,customer551@example.com,+48500000551,United Kingdom,Glasgow,True,2024-04-28 00:00:00
+552,Ewa,Brown,customer552@example.com,+48500000552,France,Paris,True,2024-11-23 00:00:00
+553,Adam,Johnson,customer553@example.com,+48500000553,United States,New York,True,2024-02-08 00:00:00
+554,Joanna,Jones,customer554@example.com,+48500000554,United States,Chicago,True,2024-03-23 00:00:00
+555,Monika,Wojciechowska,customer555@example.com,+48500000555,United Kingdom,Glasgow,True,2024-09-14 00:00:00
+556,Ewelina,Smith,customer556@example.com,+48500000556,United States,Los Angeles,True,2024-09-08 00:00:00
+557,Maria,Wojciechowska,customer557@example.com,+48500000557,Germany,Hamburg,True,2024-01-21 00:00:00
+558,Alicja,Kamiński,customer558@example.com,+48500000558,Poland,Kraków,True,2024-01-27 00:00:00
+559,Dorota,Kozłowski,customer559@example.com,+48500000559,Germany,Hamburg,True,2024-12-24 00:00:00
+560,Sarah,Grabowski,customer560@example.com,+48500000560,Germany,Hamburg,True,2024-08-03 00:00:00
+561,Katarzyna,Lewandowska,customer561@example.com,+48500000561,United Kingdom,Manchester,True,2024-12-03 00:00:00
+562,Monika,Szymańska,customer562@example.com,+48500000562,United States,New York,True,2024-05-24 00:00:00
+563,Maria,Kaczmarek,customer563@example.com,+48500000563,Germany,Frankfurt,True,2024-12-12 00:00:00
+564,Joanna,Johnson,customer564@example.com,+48500000564,Poland,Warszawa,True,2024-05-20 00:00:00
+565,Ewa,Brown,customer565@example.com,+48500000565,France,Paris,True,2024-05-09 00:00:00
+566,John,Kaczmarek,customer566@example.com,+48500000566,United States,New York,True,2024-11-13 00:00:00
+567,David,Mazur,customer567@example.com,+48500000567,Poland,Łódź,True,2024-10-24 00:00:00
+568,Sophie,Johnson,customer568@example.com,+48500000568,United States,Phoenix,True,2024-04-03 00:00:00
+569,Sophie,Kowalczyk,customer569@example.com,+48500000569,United Kingdom,Edinburgh,True,2024-02-18 00:00:00
+570,Katarzyna,Pawłowski,customer570@example.com,+48500000570,Poland,Katowice,True,2024-06-25 00:00:00
+571,Sophie,Johnson,customer571@example.com,+48500000571,United States,Phoenix,True,2024-04-20 00:00:00
+572,Ewa,Adamczyk,customer572@example.com,+48500000572,United Kingdom,Edinburgh,True,2024-01-29 00:00:00
+573,John,Wiśniewska,customer573@example.com,+48500000573,United Kingdom,Glasgow,True,2024-02-07 00:00:00
+574,Laura,Wieczorek,customer574@example.com,+48500000574,France,Lyon,True,2024-07-05 00:00:00
+575,Emma,Kamiński,customer575@example.com,+48500000575,Germany,Munich,True,2024-01-03 00:00:00
+576,Joanna,Szymańska,customer576@example.com,+48500000576,Poland,Łódź,True,2024-09-14 00:00:00
+577,Tomasz,Majewska,customer577@example.com,+48500000577,United States,Los Angeles,True,2024-11-21 00:00:00
+578,Ewa,Woźniak,customer578@example.com,+48500000578,United States,New York,True,2024-10-22 00:00:00
+579,David,Woźniak,customer579@example.com,+48500000579,United Kingdom,Glasgow,True,2024-10-05 00:00:00
+580,Łukasz,Szymańska,customer580@example.com,+48500000580,Germany,Munich,True,2024-12-14 00:00:00
+581,Alicja,Johnson,customer581@example.com,+48500000581,Germany,Munich,True,2024-02-04 00:00:00
+582,Michael,Dąbrowska,customer582@example.com,+48500000582,Poland,Łódź,True,2024-10-11 00:00:00
+583,Magdalena,Kozłowski,customer583@example.com,+48500000583,United States,Chicago,True,2024-07-23 00:00:00
+584,Jan,Szymańska,customer584@example.com,+48500000584,United Kingdom,Birmingham,True,2024-01-03 00:00:00
+585,David,Lewandowska,customer585@example.com,+48500000585,Poland,Warszawa,True,2024-07-10 00:00:00
+586,Tomasz,Zieliński,customer586@example.com,+48500000586,Poland,Gdańsk,True,2024-11-11 00:00:00
+587,Laura,Majewska,customer587@example.com,+48500000587,Poland,Kraków,True,2024-12-16 00:00:00
+588,Mateusz,Michalska,customer588@example.com,+48500000588,Poland,Gdańsk,True,2024-02-07 00:00:00
+589,Adam,Johnson,customer589@example.com,+48500000589,United States,New York,True,2024-10-21 00:00:00
+590,Monika,Kozłowski,customer590@example.com,+48500000590,United Kingdom,Glasgow,True,2024-05-08 00:00:00
+591,Adam,Lewandowska,customer591@example.com,+48500000591,France,Marseille,True,2024-06-11 00:00:00
+592,Joanna,Szymańska,customer592@example.com,+48500000592,Poland,Łódź,True,2024-11-06 00:00:00
+593,Natalia,Smith,customer593@example.com,+48500000593,United Kingdom,Birmingham,True,2024-11-03 00:00:00
+594,Anna,Pawłowski,customer594@example.com,+48500000594,United Kingdom,Manchester,True,2024-06-14 00:00:00
+595,Agnieszka,Kwiatkowski,customer595@example.com,+48500000595,Germany,Munich,True,2024-02-25 00:00:00
+596,Marcin,Grabowski,customer596@example.com,+48500000596,Germany,Berlin,True,2024-07-31 00:00:00
+597,Marek,Majewska,customer597@example.com,+48500000597,Poland,Kraków,True,2024-12-26 00:00:00
+598,Mateusz,Mazur,customer598@example.com,+48500000598,United States,Houston,True,2024-11-14 00:00:00
+599,Adam,Jabłoński,customer599@example.com,+48500000599,United Kingdom,Glasgow,True,2024-09-21 00:00:00
+600,Maria,Szymańska,customer600@example.com,+48500000600,United Kingdom,Manchester,True,2024-08-19 00:00:00
+601,Tomasz,Zieliński,customer601@example.com,+48500000601,Poland,Gdańsk,True,2024-11-14 00:00:00
+602,Ewelina,Szymańska,customer602@example.com,+48500000602,United States,Phoenix,True,2024-01-18 00:00:00
+603,Mateusz,Kowalczyk,customer603@example.com,+48500000603,United Kingdom,Glasgow,True,2024-02-14 00:00:00
+604,Andrzej,Dąbrowska,customer604@example.com,+48500000604,Germany,Cologne,True,2024-11-17 00:00:00
+605,Paweł,Majewska,customer605@example.com,+48500000605,United States,Houston,True,2024-02-09 00:00:00
+606,Agnieszka,Majewska,customer606@example.com,+48500000606,France,Marseille,True,2024-10-14 00:00:00
+607,James,Grabowski,customer607@example.com,+48500000607,United States,Chicago,True,2024-09-29 00:00:00
+608,Emma,Adamczyk,customer608@example.com,+48500000608,United Kingdom,Manchester,True,2024-11-20 00:00:00
+609,Grzegorz,Wieczorek,customer609@example.com,+48500000609,Poland,Łódź,True,2024-01-14 00:00:00
+610,Karolina,Zieliński,customer610@example.com,+48500000610,Poland,Szczecin,True,2024-02-18 00:00:00
+611,Katarzyna,Majewska,customer611@example.com,+48500000611,Germany,Cologne,True,2024-02-01 00:00:00
+612,Mateusz,Mazur,customer612@example.com,+48500000612,United States,Houston,True,2024-12-26 00:00:00
+613,Ewelina,Zając,customer613@example.com,+48500000613,United Kingdom,Edinburgh,True,2024-12-24 00:00:00
+614,Mateusz,Michalska,customer614@example.com,+48500000614,Poland,Gdańsk,True,2024-02-10 00:00:00
+615,Elena,Williams,customer615@example.com,+48500000615,France,Lyon,True,2024-03-26 00:00:00
+616,Paweł,Williams,customer616@example.com,+48500000616,Germany,Hamburg,True,2024-01-01 00:00:00
+617,John,Kaczmarek,customer617@example.com,+48500000617,United States,New York,True,2024-09-30 00:00:00
+618,Karolina,Zieliński,customer618@example.com,+48500000618,Poland,Szczecin,True,2024-06-09 00:00:00
+619,Wojciech,Zając,customer619@example.com,+48500000619,United Kingdom,Glasgow,True,2024-12-24 00:00:00
+620,Wojciech,Jabłoński,customer620@example.com,+48500000620,United States,Houston,True,2024-11-13 00:00:00
+621,Ewelina,Zieliński,customer621@example.com,+48500000621,France,Toulouse,True,2024-02-14 00:00:00
+622,Emma,Dąbrowska,customer622@example.com,+48500000622,United States,Chicago,True,2024-10-01 00:00:00
+623,Jakub,Jankowska,customer623@example.com,+48500000623,Poland,Wrocław,True,2024-06-29 00:00:00
+624,Michael,Dudek,customer624@example.com,+48500000624,France,Marseille,True,2024-05-18 00:00:00
+625,Marek,Kowalczyk,customer625@example.com,+48500000625,United Kingdom,London,True,2024-07-21 00:00:00
+626,Natalia,Smith,customer626@example.com,+48500000626,United Kingdom,Birmingham,True,2024-01-09 00:00:00
+627,Dorota,Jones,customer627@example.com,+48500000627,United States,Phoenix,True,2024-01-07 00:00:00
+628,Michael,Kaczmarek,customer628@example.com,+48500000628,Poland,Poznań,True,2024-06-02 00:00:00
+629,Monika,Kozłowski,customer629@example.com,+48500000629,United Kingdom,Glasgow,True,2024-08-04 00:00:00
+630,Barbara,Jones,customer630@example.com,+48500000630,Germany,Berlin,True,2024-05-25 00:00:00
+631,Wojciech,Kamiński,customer631@example.com,+48500000631,Germany,Hamburg,True,2024-05-09 00:00:00
+632,Katarzyna,Kozłowski,customer632@example.com,+48500000632,France,Lyon,True,2024-11-11 00:00:00
+633,Marek,Wiśniewska,customer633@example.com,+48500000633,United States,Phoenix,True,2024-04-03 00:00:00
+634,Alicja,Kamiński,customer634@example.com,+48500000634,Poland,Kraków,True,2024-05-02 00:00:00
+635,Mateusz,Kaczmarek,customer635@example.com,+48500000635,Poland,Warszawa,True,2024-03-28 00:00:00
+636,Andrzej,Dąbrowska,customer636@example.com,+48500000636,Germany,Cologne,True,2024-02-03 00:00:00
+637,Adam,Jabłoński,customer637@example.com,+48500000637,United Kingdom,Glasgow,True,2024-06-21 00:00:00
+638,Natalia,Smith,customer638@example.com,+48500000638,France,Marseille,True,2024-06-22 00:00:00
+639,Adam,Johnson,customer639@example.com,+48500000639,Germany,Hamburg,True,2024-05-13 00:00:00
+640,Barbara,Jones,customer640@example.com,+48500000640,Germany,Berlin,True,2024-01-07 00:00:00
+641,Wojciech,Kamiński,customer641@example.com,+48500000641,Germany,Hamburg,True,2024-12-07 00:00:00
+642,Tomasz,Williams,customer642@example.com,+48500000642,Poland,Kraków,True,2024-07-30 00:00:00
+643,Alicja,Johnson,customer643@example.com,+48500000643,Germany,Munich,True,2024-05-31 00:00:00
+644,Paweł,Williams,customer644@example.com,+48500000644,Germany,Hamburg,True,2024-01-20 00:00:00
+645,Adam,Wiśniewska,customer645@example.com,+48500000645,United Kingdom,London,True,2024-11-25 00:00:00
+646,Paweł,Kamiński,customer646@example.com,+48500000646,France,Marseille,True,2024-09-09 00:00:00
+647,Agnieszka,Kwiatkowski,customer647@example.com,+48500000647,United States,Phoenix,True,2024-07-19 00:00:00
+648,Adam,Zając,customer648@example.com,+48500000648,United States,Los Angeles,True,2024-07-07 00:00:00
+649,Laura,Brown,customer649@example.com,+48500000649,United Kingdom,Manchester,True,2024-08-21 00:00:00
+650,Andrzej,Smith,customer650@example.com,+48500000650,United States,New York,True,2024-10-12 00:00:00
+651,Laura,Majewska,customer651@example.com,+48500000651,Poland,Kraków,True,2024-03-12 00:00:00
+652,Paweł,Kamiński,customer652@example.com,+48500000652,France,Marseille,True,2024-05-28 00:00:00
+653,Emma,Adamczyk,customer653@example.com,+48500000653,United Kingdom,Manchester,True,2024-08-04 00:00:00
+654,Tomasz,Majewska,customer654@example.com,+48500000654,United States,Los Angeles,True,2024-07-21 00:00:00
+655,Ewa,Woźniak,customer655@example.com,+48500000655,United States,New York,True,2024-10-06 00:00:00
+656,Andrzej,Michalska,customer656@example.com,+48500000656,United Kingdom,Glasgow,True,2024-09-26 00:00:00
+657,Wojciech,Jabłoński,customer657@example.com,+48500000657,United States,Houston,True,2024-07-23 00:00:00
+658,Adam,Brown,customer658@example.com,+48500000658,Germany,Berlin,True,2024-03-16 00:00:00
+659,Katarzyna,Lewandowska,customer659@example.com,+48500000659,United Kingdom,Manchester,True,2024-11-13 00:00:00
+660,Małgorzata,Johnson,customer660@example.com,+48500000660,Germany,Frankfurt,True,2024-03-14 00:00:00
+661,Andrzej,Jabłoński,customer661@example.com,+48500000661,United States,Los Angeles,True,2024-01-15 00:00:00
+662,Łukasz,Szymańska,customer662@example.com,+48500000662,Germany,Munich,True,2024-04-25 00:00:00
+663,Wojciech,Zając,customer663@example.com,+48500000663,United Kingdom,Glasgow,True,2024-08-06 00:00:00
+664,Michael,Kaczmarek,customer664@example.com,+48500000664,Poland,Poznań,True,2024-03-14 00:00:00
+665,Michał,Krawczyk,customer665@example.com,+48500000665,Germany,Frankfurt,True,2024-12-10 00:00:00
+666,Monika,Nowak,customer666@example.com,+48500000666,United Kingdom,Birmingham,True,2024-06-28 00:00:00
+667,Agnieszka,Kwiatkowski,customer667@example.com,+48500000667,United States,Phoenix,True,2024-08-29 00:00:00
+668,Anna,Brown,customer668@example.com,+48500000668,United Kingdom,Birmingham,True,2024-09-07 00:00:00
+669,Laura,Brown,customer669@example.com,+48500000669,United Kingdom,Manchester,True,2024-05-08 00:00:00
+670,Mateusz,Kowalczyk,customer670@example.com,+48500000670,United Kingdom,Glasgow,True,2024-03-25 00:00:00
+671,Natalia,Garcia,customer671@example.com,+48500000671,France,Nice,True,2024-09-12 00:00:00
+672,Tomasz,Williams,customer672@example.com,+48500000672,Poland,Kraków,True,2024-04-17 00:00:00
+673,Krzysztof,Kowalczyk,customer673@example.com,+48500000673,United States,Houston,True,2024-06-12 00:00:00
+674,Andrzej,Kowalczyk,customer674@example.com,+48500000674,United Kingdom,London,True,2024-01-08 00:00:00
+675,Wojciech,Lewandowska,customer675@example.com,+48500000675,United States,Chicago,True,2024-03-19 00:00:00
+676,Barbara,Jones,customer676@example.com,+48500000676,Germany,Berlin,True,2024-01-03 00:00:00
+677,Monika,Woźniak,customer677@example.com,+48500000677,France,Paris,True,2024-04-07 00:00:00
+678,Michał,Dąbrowska,customer678@example.com,+48500000678,Germany,Cologne,True,2024-08-17 00:00:00
+679,Wojciech,Lewandowska,customer679@example.com,+48500000679,United States,Chicago,True,2024-10-02 00:00:00
+680,David,Krawczyk,customer680@example.com,+48500000680,United States,Chicago,True,2024-03-02 00:00:00
+681,Piotr,Majewska,customer681@example.com,+48500000681,Poland,Łódź,True,2024-08-27 00:00:00
+682,Monika,Szymańska,customer682@example.com,+48500000682,United States,New York,True,2024-11-10 00:00:00
+683,David,Wiśniewska,customer683@example.com,+48500000683,France,Paris,True,2024-10-30 00:00:00
+684,Ewa,Adamczyk,customer684@example.com,+48500000684,United Kingdom,Edinburgh,True,2024-01-11 00:00:00
+685,Magdalena,Wiśniewska,customer685@example.com,+48500000685,United Kingdom,Birmingham,True,2024-05-05 00:00:00
+686,Dorota,Kozłowski,customer686@example.com,+48500000686,Germany,Hamburg,True,2024-11-30 00:00:00
+687,Michał,Dąbrowska,customer687@example.com,+48500000687,Germany,Cologne,True,2024-08-12 00:00:00
+688,Jan,Adamczyk,customer688@example.com,+48500000688,France,Toulouse,True,2024-12-22 00:00:00
+689,Sarah,Miller,customer689@example.com,+48500000689,France,Nice,True,2024-03-04 00:00:00
+690,Mateusz,Kowalczyk,customer690@example.com,+48500000690,United Kingdom,Glasgow,True,2024-02-19 00:00:00
+691,Wojciech,Lewandowska,customer691@example.com,+48500000691,United States,Chicago,True,2024-09-16 00:00:00
+692,John,Smith,customer692@example.com,+48500000692,United Kingdom,Glasgow,True,2024-02-08 00:00:00
+693,Laura,Majewska,customer693@example.com,+48500000693,Poland,Kraków,True,2024-04-07 00:00:00
+694,Michał,Krawczyk,customer694@example.com,+48500000694,Germany,Frankfurt,True,2024-01-26 00:00:00
+695,Ewelina,Zając,customer695@example.com,+48500000695,United Kingdom,Edinburgh,True,2024-04-27 00:00:00
+696,Emma,Dąbrowska,customer696@example.com,+48500000696,United States,Chicago,True,2024-11-07 00:00:00
+697,Wojciech,Kamiński,customer697@example.com,+48500000697,Germany,Hamburg,True,2024-06-13 00:00:00
+698,Magdalena,Kwiatkowski,customer698@example.com,+48500000698,France,Nice,True,2024-10-01 00:00:00
+699,Andrzej,Michalska,customer699@example.com,+48500000699,United Kingdom,Glasgow,True,2024-04-30 00:00:00
+700,Dorota,Davis,customer700@example.com,+48500000700,Germany,Berlin,True,2024-06-04 00:00:00
+701,Sarah,Grabowski,customer701@example.com,+48500000701,Germany,Hamburg,True,2024-10-03 00:00:00
+702,Barbara,Wojciechowska,customer702@example.com,+48500000702,Poland,Wrocław,True,2024-04-12 00:00:00
+703,Ewelina,Smith,customer703@example.com,+48500000703,United States,Los Angeles,True,2024-06-14 00:00:00
+704,Dorota,Davis,customer704@example.com,+48500000704,Germany,Berlin,True,2024-04-24 00:00:00
+705,Krzysztof,Krawczyk,customer705@example.com,+48500000705,France,Lyon,True,2024-01-02 00:00:00
+706,Adam,Jabłoński,customer706@example.com,+48500000706,United Kingdom,Glasgow,True,2024-01-31 00:00:00
+707,Karolina,Brown,customer707@example.com,+48500000707,United Kingdom,Edinburgh,True,2024-06-04 00:00:00
+708,Paweł,Kamiński,customer708@example.com,+48500000708,France,Marseille,True,2024-11-09 00:00:00
+709,Karolina,Piotrowska,customer709@example.com,+48500000709,United Kingdom,Manchester,True,2024-02-13 00:00:00
+710,Alicja,Kamiński,customer710@example.com,+48500000710,Poland,Kraków,True,2024-09-29 00:00:00
+711,Mateusz,Michalska,customer711@example.com,+48500000711,Poland,Gdańsk,True,2024-06-07 00:00:00
+712,Barbara,Zając,customer712@example.com,+48500000712,Germany,Hamburg,True,2024-02-02 00:00:00
+713,Wojciech,Kamiński,customer713@example.com,+48500000713,Germany,Hamburg,True,2024-08-19 00:00:00
+714,Andrzej,Pawłowski,customer714@example.com,+48500000714,United Kingdom,Birmingham,True,2024-10-02 00:00:00
+715,Michael,Michalska,customer715@example.com,+48500000715,United States,Houston,True,2024-05-13 00:00:00
+716,Marcin,Dąbrowska,customer716@example.com,+48500000716,Germany,Berlin,True,2024-06-25 00:00:00
+717,Anna,Szymańska,customer717@example.com,+48500000717,United Kingdom,Manchester,True,2024-02-11 00:00:00
+718,Dorota,Kozłowski,customer718@example.com,+48500000718,Germany,Hamburg,True,2024-12-07 00:00:00
+719,Dorota,Miller,customer719@example.com,+48500000719,Poland,Katowice,True,2024-06-13 00:00:00
+720,Grzegorz,Johnson,customer720@example.com,+48500000720,Poland,Szczecin,True,2024-04-14 00:00:00
+721,Andrzej,Majewska,customer721@example.com,+48500000721,France,Toulouse,True,2024-08-19 00:00:00
+722,Małgorzata,Krawczyk,customer722@example.com,+48500000722,United Kingdom,London,True,2024-09-22 00:00:00
+723,Michael,Dąbrowska,customer723@example.com,+48500000723,Poland,Łódź,True,2024-07-05 00:00:00
+724,Dorota,Miller,customer724@example.com,+48500000724,Poland,Katowice,True,2024-04-07 00:00:00
+725,Andrzej,Pawłowski,customer725@example.com,+48500000725,United Kingdom,Birmingham,True,2024-12-05 00:00:00
+726,John,Kaczmarek,customer726@example.com,+48500000726,United States,New York,True,2024-03-06 00:00:00
+727,Jakub,Wójcik,customer727@example.com,+48500000727,United States,Chicago,True,2024-02-23 00:00:00
+728,Sophie,Johnson,customer728@example.com,+48500000728,United States,Phoenix,True,2024-09-07 00:00:00
+729,Grzegorz,Dąbrowska,customer729@example.com,+48500000729,France,Lyon,True,2024-09-23 00:00:00
+730,Alicja,Kowalczyk,customer730@example.com,+48500000730,Poland,Katowice,True,2024-05-23 00:00:00
+731,Andrzej,Michalska,customer731@example.com,+48500000731,United Kingdom,Glasgow,True,2024-10-23 00:00:00
+732,Joanna,Adamczyk,customer732@example.com,+48500000732,Poland,Warszawa,True,2024-10-25 00:00:00
+733,Katarzyna,Pawłowski,customer733@example.com,+48500000733,Poland,Katowice,True,2024-07-28 00:00:00
+734,Magdalena,Wiśniewska,customer734@example.com,+48500000734,United Kingdom,Birmingham,True,2024-07-02 00:00:00
+735,Laura,Wojciechowska,customer735@example.com,+48500000735,Germany,Frankfurt,True,2024-03-07 00:00:00
+736,Tomasz,Majewska,customer736@example.com,+48500000736,United States,Los Angeles,True,2024-10-04 00:00:00
+737,Alexander,Garcia,customer737@example.com,+48500000737,United Kingdom,Manchester,True,2024-10-10 00:00:00
+738,Michael,Kaczmarek,customer738@example.com,+48500000738,Poland,Poznań,True,2024-12-18 00:00:00
+739,Elena,Williams,customer739@example.com,+48500000739,France,Lyon,True,2024-06-18 00:00:00
+740,Andrzej,Pawłowski,customer740@example.com,+48500000740,United Kingdom,Birmingham,True,2024-12-17 00:00:00
+741,Laura,Brown,customer741@example.com,+48500000741,United Kingdom,Manchester,True,2024-02-16 00:00:00
+742,Michael,Wojciechowska,customer742@example.com,+48500000742,United States,Los Angeles,True,2024-03-18 00:00:00
+743,Michael,Wojciechowska,customer743@example.com,+48500000743,United States,Los Angeles,True,2024-02-16 00:00:00
+744,Maria,Wojciechowska,customer744@example.com,+48500000744,Germany,Hamburg,True,2024-01-14 00:00:00
+745,Natalia,Garcia,customer745@example.com,+48500000745,United Kingdom,Edinburgh,True,2024-11-08 00:00:00
+746,Jan,Kozłowski,customer746@example.com,+48500000746,United Kingdom,Birmingham,True,2024-12-05 00:00:00
+747,Łukasz,Nowak,customer747@example.com,+48500000747,France,Nice,True,2024-05-04 00:00:00
+748,Andrzej,Krawczyk,customer748@example.com,+48500000748,United States,Phoenix,True,2024-12-07 00:00:00
+749,Karolina,Brown,customer749@example.com,+48500000749,United Kingdom,Edinburgh,True,2024-11-03 00:00:00
+750,Jan,Grabowski,customer750@example.com,+48500000750,United States,Chicago,True,2024-08-14 00:00:00
+751,Ewa,Woźniak,customer751@example.com,+48500000751,United States,New York,True,2024-04-26 00:00:00
+752,Laura,Jabłoński,customer752@example.com,+48500000752,France,Lyon,True,2024-03-31 00:00:00
+753,Joanna,Johnson,customer753@example.com,+48500000753,Poland,Warszawa,True,2024-10-10 00:00:00
+754,Alicja,Kamiński,customer754@example.com,+48500000754,Poland,Kraków,True,2024-01-20 00:00:00
+755,Emma,Dąbrowska,customer755@example.com,+48500000755,United States,Chicago,True,2024-12-09 00:00:00
+756,Barbara,Jones,customer756@example.com,+48500000756,Germany,Berlin,True,2024-06-03 00:00:00
+757,Dorota,Zając,customer757@example.com,+48500000757,United Kingdom,Edinburgh,True,2024-03-12 00:00:00
+758,Adam,Zieliński,customer758@example.com,+48500000758,France,Nice,True,2024-11-01 00:00:00
+759,Michael,Dudek,customer759@example.com,+48500000759,France,Marseille,True,2024-10-30 00:00:00
+760,Tomasz,Kaczmarek,customer760@example.com,+48500000760,France,Lyon,True,2024-07-09 00:00:00
+761,Emma,Dąbrowska,customer761@example.com,+48500000761,United States,Chicago,True,2024-02-29 00:00:00
+762,Grzegorz,Jabłoński,customer762@example.com,+48500000762,Germany,Frankfurt,True,2024-06-26 00:00:00
+763,Alicja,Kowalczyk,customer763@example.com,+48500000763,Poland,Katowice,True,2024-10-14 00:00:00
+764,Monika,Nowak,customer764@example.com,+48500000764,United Kingdom,Birmingham,True,2024-03-25 00:00:00
+765,Piotr,Krawczyk,customer765@example.com,+48500000765,United States,Phoenix,True,2024-01-01 00:00:00
+766,Sarah,Miller,customer766@example.com,+48500000766,France,Nice,True,2024-11-15 00:00:00
+767,Barbara,Jones,customer767@example.com,+48500000767,Germany,Berlin,True,2024-09-24 00:00:00
+768,Tomasz,Williams,customer768@example.com,+48500000768,Poland,Kraków,True,2024-08-19 00:00:00
+769,David,Wiśniewska,customer769@example.com,+48500000769,France,Paris,True,2024-02-18 00:00:00
+770,Barbara,Miller,customer770@example.com,+48500000770,France,Nice,True,2024-11-15 00:00:00
+771,Alexander,Garcia,customer771@example.com,+48500000771,United Kingdom,Manchester,True,2024-09-04 00:00:00
+772,Laura,Wojciechowska,customer772@example.com,+48500000772,Germany,Frankfurt,True,2024-11-09 00:00:00
+773,Marcin,Johnson,customer773@example.com,+48500000773,United States,Chicago,True,2024-02-01 00:00:00
+774,Łukasz,Nowak,customer774@example.com,+48500000774,United Kingdom,Glasgow,True,2024-08-30 00:00:00
+775,Maria,Kaczmarek,customer775@example.com,+48500000775,Germany,Frankfurt,True,2024-06-11 00:00:00
+776,Grzegorz,Johnson,customer776@example.com,+48500000776,Poland,Szczecin,True,2024-02-02 00:00:00
+777,Krzysztof,Woźniak,customer777@example.com,+48500000777,United States,Chicago,True,2024-05-09 00:00:00
+778,Mateusz,Piotrowska,customer778@example.com,+48500000778,France,Paris,True,2024-05-11 00:00:00
+779,Jan,Adamczyk,customer779@example.com,+48500000779,France,Toulouse,True,2024-01-19 00:00:00
+780,Grzegorz,Johnson,customer780@example.com,+48500000780,Poland,Szczecin,True,2024-09-02 00:00:00
+781,Marek,Zając,customer781@example.com,+48500000781,United States,Los Angeles,True,2024-12-10 00:00:00
+782,Barbara,Wiśniewska,customer782@example.com,+48500000782,United Kingdom,Manchester,True,2024-03-06 00:00:00
+783,Elena,Williams,customer783@example.com,+48500000783,France,Lyon,True,2024-02-26 00:00:00
+784,Agnieszka,Majewska,customer784@example.com,+48500000784,France,Marseille,True,2024-11-17 00:00:00
+785,David,Lewandowska,customer785@example.com,+48500000785,Poland,Warszawa,True,2024-02-15 00:00:00
+786,James,Wojciechowska,customer786@example.com,+48500000786,United Kingdom,Birmingham,True,2024-12-15 00:00:00
+787,Wojciech,Lewandowska,customer787@example.com,+48500000787,United States,Chicago,True,2024-01-01 00:00:00
+788,Katarzyna,Kozłowski,customer788@example.com,+48500000788,France,Lyon,True,2024-05-28 00:00:00
+789,James,Wojciechowska,customer789@example.com,+48500000789,United Kingdom,Birmingham,True,2024-08-02 00:00:00
+790,Mateusz,Michalska,customer790@example.com,+48500000790,Poland,Gdańsk,True,2024-06-07 00:00:00
+791,Adam,Zieliński,customer791@example.com,+48500000791,France,Nice,True,2024-07-01 00:00:00
+792,Grzegorz,Wieczorek,customer792@example.com,+48500000792,Poland,Łódź,True,2024-07-04 00:00:00
+793,Jan,Kozłowski,customer793@example.com,+48500000793,United Kingdom,Birmingham,True,2024-10-22 00:00:00
+794,Tomasz,Lewandowska,customer794@example.com,+48500000794,United States,Los Angeles,True,2024-06-27 00:00:00
+795,Grzegorz,Johnson,customer795@example.com,+48500000795,Poland,Szczecin,True,2024-02-23 00:00:00
+796,Jan,Nowak,customer796@example.com,+48500000796,United States,Houston,True,2024-07-27 00:00:00
+797,Jan,Grabowski,customer797@example.com,+48500000797,United States,Chicago,True,2024-10-29 00:00:00
+798,Paweł,Majewska,customer798@example.com,+48500000798,United States,Houston,True,2024-03-05 00:00:00
+799,Jakub,Wójcik,customer799@example.com,+48500000799,United States,Chicago,True,2024-12-12 00:00:00
+800,Joanna,Adamczyk,customer800@example.com,+48500000800,Poland,Warszawa,True,2024-03-07 00:00:00
+801,James,Wojciechowska,customer801@example.com,+48500000801,United Kingdom,Birmingham,True,2024-03-05 00:00:00
+802,Jan,Nowak,customer802@example.com,+48500000802,United States,Los Angeles,True,2024-03-16 00:00:00
+803,Mateusz,Piotrowska,customer803@example.com,+48500000803,France,Paris,True,2024-01-06 00:00:00
+804,Laura,Wojciechowska,customer804@example.com,+48500000804,Germany,Frankfurt,True,2024-08-29 00:00:00
+805,Jan,Nowak,customer805@example.com,+48500000805,United States,Los Angeles,True,2024-04-28 00:00:00
+806,Grzegorz,Lewandowska,customer806@example.com,+48500000806,France,Marseille,True,2024-05-09 00:00:00
+807,Laura,Majewska,customer807@example.com,+48500000807,Poland,Kraków,True,2024-10-25 00:00:00
+808,Magdalena,Piotrowska,customer808@example.com,+48500000808,France,Lyon,True,2024-11-06 00:00:00
+809,Piotr,Majewska,customer809@example.com,+48500000809,Poland,Łódź,True,2024-07-06 00:00:00
+810,Krzysztof,Kowalczyk,customer810@example.com,+48500000810,United States,Houston,True,2024-09-10 00:00:00
+811,Grzegorz,Johnson,customer811@example.com,+48500000811,Poland,Szczecin,True,2024-12-11 00:00:00
+812,Andrzej,Jabłoński,customer812@example.com,+48500000812,United States,Los Angeles,True,2024-02-02 00:00:00
+813,Mateusz,Mazur,customer813@example.com,+48500000813,United States,Houston,True,2024-06-22 00:00:00
+814,Laura,Wieczorek,customer814@example.com,+48500000814,France,Lyon,True,2024-09-10 00:00:00
+815,David,Lewandowska,customer815@example.com,+48500000815,Poland,Warszawa,True,2024-12-06 00:00:00
+816,Marcin,Kwiatkowski,customer816@example.com,+48500000816,Germany,Frankfurt,True,2024-06-11 00:00:00
+817,Dorota,Miller,customer817@example.com,+48500000817,Poland,Katowice,True,2024-12-25 00:00:00
+818,Marek,Zając,customer818@example.com,+48500000818,United States,Los Angeles,True,2024-01-28 00:00:00
+819,Andrzej,Michalska,customer819@example.com,+48500000819,United Kingdom,Glasgow,True,2024-06-03 00:00:00
+820,Anna,Lewandowska,customer820@example.com,+48500000820,France,Marseille,True,2024-03-15 00:00:00
+821,Marcin,Dąbrowska,customer821@example.com,+48500000821,Germany,Berlin,True,2024-07-12 00:00:00
+822,Wojciech,Kamiński,customer822@example.com,+48500000822,Germany,Hamburg,True,2024-09-16 00:00:00
+823,Sarah,Grabowski,customer823@example.com,+48500000823,Germany,Hamburg,True,2024-03-27 00:00:00
+824,Karolina,Piotrowska,customer824@example.com,+48500000824,United Kingdom,Manchester,True,2024-08-17 00:00:00
+825,Elena,Piotrowska,customer825@example.com,+48500000825,Germany,Berlin,True,2024-10-25 00:00:00
+826,Tomasz,Zieliński,customer826@example.com,+48500000826,Poland,Gdańsk,True,2024-03-23 00:00:00
+827,Agnieszka,Kwiatkowski,customer827@example.com,+48500000827,Germany,Munich,True,2024-05-29 00:00:00
+828,Piotr,Wiśniewska,customer828@example.com,+48500000828,Poland,Wrocław,True,2024-10-13 00:00:00
+829,James,Wojciechowska,customer829@example.com,+48500000829,United Kingdom,Birmingham,True,2024-11-06 00:00:00
+830,Adam,Wiśniewska,customer830@example.com,+48500000830,United Kingdom,London,True,2024-11-16 00:00:00
+831,Grzegorz,Dąbrowska,customer831@example.com,+48500000831,France,Lyon,True,2024-01-20 00:00:00
+832,Paweł,Kamiński,customer832@example.com,+48500000832,France,Marseille,True,2024-10-21 00:00:00
+833,Maria,Kaczmarek,customer833@example.com,+48500000833,Germany,Frankfurt,True,2024-12-04 00:00:00
+834,Ewelina,Johnson,customer834@example.com,+48500000834,United States,Los Angeles,True,2024-02-21 00:00:00
+835,Wojciech,Jabłoński,customer835@example.com,+48500000835,United States,Houston,True,2024-05-06 00:00:00
+836,Małgorzata,Jabłoński,customer836@example.com,+48500000836,United Kingdom,London,True,2024-02-14 00:00:00
+837,Grzegorz,Lewandowska,customer837@example.com,+48500000837,France,Marseille,True,2024-06-22 00:00:00
+838,Maria,Kaczmarek,customer838@example.com,+48500000838,Germany,Frankfurt,True,2024-07-22 00:00:00
+839,Elena,Piotrowska,customer839@example.com,+48500000839,Germany,Berlin,True,2024-09-30 00:00:00
+840,Wojciech,Jabłoński,customer840@example.com,+48500000840,United States,Houston,True,2024-12-02 00:00:00
+841,James,Smith,customer841@example.com,+48500000841,United Kingdom,Edinburgh,True,2024-12-21 00:00:00
+842,Łukasz,Zieliński,customer842@example.com,+48500000842,United States,Houston,True,2024-02-14 00:00:00
+843,Barbara,Wojciechowska,customer843@example.com,+48500000843,Poland,Wrocław,True,2024-04-22 00:00:00
+844,Anna,Davis,customer844@example.com,+48500000844,France,Toulouse,True,2024-06-30 00:00:00
+845,Karolina,Jankowska,customer845@example.com,+48500000845,France,Lyon,True,2024-05-14 00:00:00
+846,Małgorzata,Jabłoński,customer846@example.com,+48500000846,United Kingdom,London,True,2024-06-04 00:00:00
+847,Anna,Szymańska,customer847@example.com,+48500000847,United Kingdom,Manchester,True,2024-06-19 00:00:00
+848,Grzegorz,Dąbrowska,customer848@example.com,+48500000848,France,Lyon,True,2024-07-19 00:00:00
+849,Karolina,Zieliński,customer849@example.com,+48500000849,Poland,Szczecin,True,2024-04-03 00:00:00
+850,Tomasz,Zieliński,customer850@example.com,+48500000850,Poland,Gdańsk,True,2024-10-18 00:00:00
+851,James,Smith,customer851@example.com,+48500000851,United Kingdom,Edinburgh,True,2024-01-17 00:00:00
+852,Grzegorz,Jabłoński,customer852@example.com,+48500000852,Germany,Frankfurt,True,2024-04-07 00:00:00
+853,Andrzej,Majewska,customer853@example.com,+48500000853,France,Toulouse,True,2024-06-22 00:00:00
+854,Emma,Adamczyk,customer854@example.com,+48500000854,United Kingdom,Manchester,True,2024-06-05 00:00:00
+855,Ewelina,Johnson,customer855@example.com,+48500000855,United States,Los Angeles,True,2024-02-16 00:00:00
+856,John,Kaczmarek,customer856@example.com,+48500000856,United States,New York,True,2024-03-19 00:00:00
+857,Elena,Wojciechowska,customer857@example.com,+48500000857,Germany,Cologne,True,2024-07-14 00:00:00
+858,Agnieszka,Kwiatkowski,customer858@example.com,+48500000858,Germany,Munich,True,2024-06-18 00:00:00
+859,Emma,Kamiński,customer859@example.com,+48500000859,Germany,Munich,True,2024-10-01 00:00:00
+860,Elena,Brown,customer860@example.com,+48500000860,United Kingdom,London,True,2024-01-03 00:00:00
+861,Ewa,Wieczorek,customer861@example.com,+48500000861,Poland,Poznań,True,2024-10-01 00:00:00
+862,Alexander,Woźniak,customer862@example.com,+48500000862,United States,Chicago,True,2024-03-08 00:00:00
+863,Mateusz,Kaczmarek,customer863@example.com,+48500000863,Poland,Warszawa,True,2024-02-05 00:00:00
+864,Joanna,Kwiatkowski,customer864@example.com,+48500000864,Poland,Warszawa,True,2024-04-13 00:00:00
+865,Dorota,Miller,customer865@example.com,+48500000865,Poland,Katowice,True,2024-06-29 00:00:00
+866,Andrzej,Kowalczyk,customer866@example.com,+48500000866,United Kingdom,London,True,2024-08-27 00:00:00
+867,Michael,Michalska,customer867@example.com,+48500000867,United States,Houston,True,2024-10-15 00:00:00
+868,Wojciech,Piotrowska,customer868@example.com,+48500000868,United States,Houston,True,2024-04-15 00:00:00
+869,Tomasz,Williams,customer869@example.com,+48500000869,Poland,Kraków,True,2024-10-20 00:00:00
+870,Natalia,Smith,customer870@example.com,+48500000870,France,Marseille,True,2024-08-21 00:00:00
+871,Michael,Kozłowski,customer871@example.com,+48500000871,Germany,Munich,True,2024-09-09 00:00:00
+872,Adam,Lewandowska,customer872@example.com,+48500000872,France,Marseille,True,2024-11-28 00:00:00
+873,Elena,Dudek,customer873@example.com,+48500000873,Germany,Cologne,True,2024-02-07 00:00:00
+874,Mateusz,Grabowski,customer874@example.com,+48500000874,Poland,Łódź,True,2024-11-14 00:00:00
+875,Ewelina,Johnson,customer875@example.com,+48500000875,United States,Los Angeles,True,2024-05-13 00:00:00
+876,John,Smith,customer876@example.com,+48500000876,United Kingdom,Glasgow,True,2024-04-03 00:00:00
+877,Marek,Majewska,customer877@example.com,+48500000877,Poland,Kraków,True,2024-11-24 00:00:00
+878,Ewelina,Zieliński,customer878@example.com,+48500000878,France,Toulouse,True,2024-07-13 00:00:00
+879,Anna,Brown,customer879@example.com,+48500000879,United Kingdom,Birmingham,True,2024-11-29 00:00:00
+880,Marcin,Johnson,customer880@example.com,+48500000880,United States,Chicago,True,2024-11-03 00:00:00
+881,Adam,Zając,customer881@example.com,+48500000881,United States,Los Angeles,True,2024-01-28 00:00:00
+882,Alexander,Krawczyk,customer882@example.com,+48500000882,United Kingdom,Glasgow,True,2024-01-05 00:00:00
+883,Katarzyna,Pawłowski,customer883@example.com,+48500000883,Poland,Wrocław,True,2024-08-01 00:00:00
+884,Magdalena,Kozłowski,customer884@example.com,+48500000884,United States,Chicago,True,2024-12-12 00:00:00
+885,Emma,Miller,customer885@example.com,+48500000885,Poland,Poznań,True,2024-02-25 00:00:00
+886,Małgorzata,Johnson,customer886@example.com,+48500000886,Germany,Frankfurt,True,2024-07-25 00:00:00
+887,Marek,Zając,customer887@example.com,+48500000887,United States,Los Angeles,True,2024-09-20 00:00:00
+888,Emma,Adamczyk,customer888@example.com,+48500000888,United Kingdom,Manchester,True,2024-11-16 00:00:00
+889,Emma,Kamiński,customer889@example.com,+48500000889,Germany,Munich,True,2024-02-15 00:00:00
+890,Elena,Wiśniewska,customer890@example.com,+48500000890,United States,Houston,True,2024-01-17 00:00:00
+891,James,Wiśniewska,customer891@example.com,+48500000891,United Kingdom,Glasgow,True,2024-01-29 00:00:00
+892,Alexander,Krawczyk,customer892@example.com,+48500000892,United Kingdom,Glasgow,True,2024-03-01 00:00:00
+893,Wojciech,Zając,customer893@example.com,+48500000893,United Kingdom,Glasgow,True,2024-06-21 00:00:00
+894,Emma,Miller,customer894@example.com,+48500000894,Poland,Poznań,True,2024-02-25 00:00:00
+895,Jan,Nowak,customer895@example.com,+48500000895,United States,Los Angeles,True,2024-09-10 00:00:00
+896,Anna,Brown,customer896@example.com,+48500000896,United Kingdom,Birmingham,True,2024-11-16 00:00:00
+897,Ewa,Brown,customer897@example.com,+48500000897,France,Paris,True,2024-01-16 00:00:00
+898,John,Kaczmarek,customer898@example.com,+48500000898,United States,New York,True,2024-08-04 00:00:00
+899,Alexander,Krawczyk,customer899@example.com,+48500000899,United Kingdom,Glasgow,True,2024-04-10 00:00:00
+900,Natalia,Garcia,customer900@example.com,+48500000900,United Kingdom,Edinburgh,True,2024-02-10 00:00:00
+901,Łukasz,Szymańska,customer901@example.com,+48500000901,Germany,Munich,True,2024-04-05 00:00:00
+902,Joanna,Jones,customer902@example.com,+48500000902,France,Toulouse,True,2024-06-23 00:00:00
+903,Jan,Lewandowska,customer903@example.com,+48500000903,Germany,Munich,True,2024-07-09 00:00:00
+904,Krzysztof,Kowalczyk,customer904@example.com,+48500000904,United States,Houston,True,2024-11-09 00:00:00
+905,Marcin,Johnson,customer905@example.com,+48500000905,United States,Chicago,True,2024-02-14 00:00:00
+906,Ewelina,Johnson,customer906@example.com,+48500000906,United States,Los Angeles,True,2024-07-19 00:00:00
+907,Małgorzata,Krawczyk,customer907@example.com,+48500000907,United Kingdom,London,True,2024-06-18 00:00:00
+908,Tomasz,Williams,customer908@example.com,+48500000908,Poland,Kraków,True,2024-04-16 00:00:00
+909,Małgorzata,Jabłoński,customer909@example.com,+48500000909,United Kingdom,London,True,2024-08-23 00:00:00
+910,Elena,Brown,customer910@example.com,+48500000910,United Kingdom,London,True,2024-07-05 00:00:00
+911,Ewelina,Zając,customer911@example.com,+48500000911,United Kingdom,Edinburgh,True,2024-01-06 00:00:00
+912,Dorota,Kozłowski,customer912@example.com,+48500000912,Germany,Hamburg,True,2024-06-29 00:00:00
+913,Joanna,Johnson,customer913@example.com,+48500000913,Poland,Warszawa,True,2024-07-28 00:00:00
+914,Piotr,Pawłowski,customer914@example.com,+48500000914,Poland,Poznań,True,2024-04-21 00:00:00
+915,Adam,Zieliński,customer915@example.com,+48500000915,France,Nice,True,2024-04-09 00:00:00
+916,Alexander,Woźniak,customer916@example.com,+48500000916,United States,Chicago,True,2024-11-20 00:00:00
+917,Alicja,Kamiński,customer917@example.com,+48500000917,Poland,Kraków,True,2024-02-11 00:00:00
+918,Barbara,Wojciechowska,customer918@example.com,+48500000918,Poland,Wrocław,True,2024-03-08 00:00:00
+919,Monika,Szymańska,customer919@example.com,+48500000919,United States,New York,True,2024-03-02 00:00:00
+920,James,Wojciechowska,customer920@example.com,+48500000920,United Kingdom,Birmingham,True,2024-05-23 00:00:00
+921,Maria,Wojciechowska,customer921@example.com,+48500000921,Germany,Hamburg,True,2024-10-02 00:00:00
+922,Maria,Wojciechowska,customer922@example.com,+48500000922,Germany,Hamburg,True,2024-09-05 00:00:00
+923,Jan,Kozłowski,customer923@example.com,+48500000923,United Kingdom,Birmingham,True,2024-11-04 00:00:00
+924,Jan,Grabowski,customer924@example.com,+48500000924,United States,Chicago,True,2024-02-18 00:00:00
+925,Ewa,Wieczorek,customer925@example.com,+48500000925,Poland,Poznań,True,2024-10-21 00:00:00
+926,Anna,Jankowska,customer926@example.com,+48500000926,Germany,Frankfurt,True,2024-12-27 00:00:00
+927,Wojciech,Lewandowska,customer927@example.com,+48500000927,United States,Chicago,True,2024-03-05 00:00:00
+928,Jakub,Wójcik,customer928@example.com,+48500000928,United States,Chicago,True,2024-09-16 00:00:00
+929,Monika,Nowak,customer929@example.com,+48500000929,United Kingdom,Birmingham,True,2024-10-25 00:00:00
+930,Marek,Zając,customer930@example.com,+48500000930,United States,Los Angeles,True,2024-02-27 00:00:00
+931,Maria,Szymańska,customer931@example.com,+48500000931,United Kingdom,Manchester,True,2024-08-08 00:00:00
+932,Krzysztof,Dudek,customer932@example.com,+48500000932,France,Paris,True,2024-11-03 00:00:00
+933,Alicja,Kowalczyk,customer933@example.com,+48500000933,Poland,Katowice,True,2024-01-29 00:00:00
+934,Michael,Dudek,customer934@example.com,+48500000934,France,Marseille,True,2024-09-27 00:00:00
+935,Adam,Johnson,customer935@example.com,+48500000935,United States,New York,True,2024-12-21 00:00:00
+936,Barbara,Wiśniewska,customer936@example.com,+48500000936,United Kingdom,Manchester,True,2024-06-09 00:00:00
+937,Maria,Grabowski,customer937@example.com,+48500000937,United States,Los Angeles,True,2024-09-20 00:00:00
+938,Joanna,Szymańska,customer938@example.com,+48500000938,Poland,Łódź,True,2024-08-28 00:00:00
+939,Anna,Szymańska,customer939@example.com,+48500000939,United Kingdom,Manchester,True,2024-09-27 00:00:00
+940,Karolina,Zieliński,customer940@example.com,+48500000940,Poland,Szczecin,True,2024-08-24 00:00:00
+941,Elena,Dudek,customer941@example.com,+48500000941,Germany,Cologne,True,2024-08-13 00:00:00
+942,Paweł,Williams,customer942@example.com,+48500000942,Germany,Hamburg,True,2024-09-25 00:00:00
+943,Elena,Wiśniewska,customer943@example.com,+48500000943,United States,Houston,True,2024-02-12 00:00:00
+944,Monika,Wojciechowska,customer944@example.com,+48500000944,United Kingdom,Glasgow,True,2024-03-23 00:00:00
+945,David,Zając,customer945@example.com,+48500000945,France,Paris,True,2024-05-22 00:00:00
+946,Jan,Szymańska,customer946@example.com,+48500000946,United Kingdom,Birmingham,True,2024-07-03 00:00:00
+947,Paweł,Majewska,customer947@example.com,+48500000947,United States,Houston,True,2024-01-25 00:00:00
+948,Mateusz,Grabowski,customer948@example.com,+48500000948,Poland,Łódź,True,2024-12-02 00:00:00
+949,Joanna,Kwiatkowski,customer949@example.com,+48500000949,Poland,Warszawa,True,2024-01-23 00:00:00
+950,Anna,Jankowska,customer950@example.com,+48500000950,Germany,Frankfurt,True,2024-01-19 00:00:00
+951,Dorota,Wieczorek,customer951@example.com,+48500000951,Poland,Wrocław,True,2024-06-02 00:00:00
+952,Michael,Kaczmarek,customer952@example.com,+48500000952,Poland,Poznań,True,2024-08-28 00:00:00
+953,Michael,Dąbrowska,customer953@example.com,+48500000953,Poland,Łódź,True,2024-09-20 00:00:00
+954,Sophie,Kowalczyk,customer954@example.com,+48500000954,United Kingdom,Edinburgh,True,2024-05-07 00:00:00
+955,Karolina,Brown,customer955@example.com,+48500000955,United Kingdom,Edinburgh,True,2024-06-24 00:00:00
+956,David,Mazur,customer956@example.com,+48500000956,Poland,Łódź,True,2024-09-15 00:00:00
+957,Elena,Wojciechowska,customer957@example.com,+48500000957,Germany,Cologne,True,2024-12-14 00:00:00
+958,Joanna,Adamczyk,customer958@example.com,+48500000958,Poland,Warszawa,True,2024-12-12 00:00:00
+959,Barbara,Zając,customer959@example.com,+48500000959,Germany,Hamburg,True,2024-05-15 00:00:00
+960,Ewelina,Zieliński,customer960@example.com,+48500000960,France,Toulouse,True,2024-12-25 00:00:00
+961,Karolina,Piotrowska,customer961@example.com,+48500000961,United Kingdom,Manchester,True,2024-12-26 00:00:00
+962,Emma,Miller,customer962@example.com,+48500000962,Poland,Poznań,True,2024-04-09 00:00:00
+963,Michael,Dudek,customer963@example.com,+48500000963,France,Marseille,True,2024-10-08 00:00:00
+964,Ewa,Wieczorek,customer964@example.com,+48500000964,Poland,Poznań,True,2024-11-15 00:00:00
+965,Michael,Kaczmarek,customer965@example.com,+48500000965,Poland,Poznań,True,2024-12-16 00:00:00
+966,Małgorzata,Wiśniewska,customer966@example.com,+48500000966,Germany,Munich,True,2024-02-13 00:00:00
+967,Joanna,Jones,customer967@example.com,+48500000967,United States,Chicago,True,2024-03-25 00:00:00
+968,Agnieszka,Majewska,customer968@example.com,+48500000968,France,Marseille,True,2024-03-01 00:00:00
+969,Wojciech,Zając,customer969@example.com,+48500000969,United Kingdom,Glasgow,True,2024-12-10 00:00:00
+970,Magdalena,Kozłowski,customer970@example.com,+48500000970,United States,Chicago,True,2024-03-23 00:00:00
+971,Adam,Wiśniewska,customer971@example.com,+48500000971,United Kingdom,London,True,2024-10-03 00:00:00
+972,Joanna,Johnson,customer972@example.com,+48500000972,Poland,Warszawa,True,2024-12-04 00:00:00
+973,Barbara,Wojciechowska,customer973@example.com,+48500000973,Poland,Wrocław,True,2024-05-26 00:00:00
+974,Laura,Majewska,customer974@example.com,+48500000974,Poland,Kraków,True,2024-09-21 00:00:00
+975,Alexander,Woźniak,customer975@example.com,+48500000975,United States,Chicago,True,2024-01-13 00:00:00
+976,Laura,Wieczorek,customer976@example.com,+48500000976,France,Lyon,True,2024-03-02 00:00:00
+977,Ewelina,Szymańska,customer977@example.com,+48500000977,United States,Phoenix,True,2024-07-08 00:00:00
+978,Łukasz,Szymańska,customer978@example.com,+48500000978,Germany,Munich,True,2024-12-07 00:00:00
+979,Anna,Davis,customer979@example.com,+48500000979,France,Toulouse,True,2024-08-17 00:00:00
+980,Agnieszka,Majewska,customer980@example.com,+48500000980,France,Marseille,True,2024-11-10 00:00:00
+981,Elena,Brown,customer981@example.com,+48500000981,United Kingdom,London,True,2024-02-03 00:00:00
+982,Ewa,Adamczyk,customer982@example.com,+48500000982,United Kingdom,Edinburgh,True,2024-01-22 00:00:00
+983,David,Wiśniewska,customer983@example.com,+48500000983,France,Paris,True,2024-01-24 00:00:00
+984,Monika,Kozłowski,customer984@example.com,+48500000984,United Kingdom,Glasgow,True,2024-05-23 00:00:00
+985,Wojciech,Lewandowska,customer985@example.com,+48500000985,United States,Chicago,True,2024-03-30 00:00:00
+986,Grzegorz,Jabłoński,customer986@example.com,+48500000986,Germany,Frankfurt,True,2024-01-06 00:00:00
+987,John,Smith,customer987@example.com,+48500000987,United Kingdom,Glasgow,True,2024-09-26 00:00:00
+988,Barbara,Wiśniewska,customer988@example.com,+48500000988,United Kingdom,Manchester,True,2024-01-20 00:00:00
+989,Natalia,Adamczyk,customer989@example.com,+48500000989,United States,Houston,True,2024-10-03 00:00:00
+990,Magdalena,Piotrowska,customer990@example.com,+48500000990,France,Lyon,True,2024-09-14 00:00:00
+991,Adam,Johnson,customer991@example.com,+48500000991,United States,New York,True,2024-07-29 00:00:00
+992,Alexander,Woźniak,customer992@example.com,+48500000992,United States,Chicago,True,2024-01-01 00:00:00
+993,Elena,Williams,customer993@example.com,+48500000993,France,Lyon,True,2024-02-29 00:00:00
+994,Ewelina,Zając,customer994@example.com,+48500000994,United Kingdom,Edinburgh,True,2024-04-06 00:00:00
+995,David,Mazur,customer995@example.com,+48500000995,Poland,Łódź,True,2024-11-27 00:00:00
+996,Elena,Williams,customer996@example.com,+48500000996,France,Lyon,True,2024-06-12 00:00:00
+997,Anna,Brown,customer997@example.com,+48500000997,United Kingdom,Birmingham,True,2024-04-17 00:00:00
+998,Jan,Lewandowska,customer998@example.com,+48500000998,Germany,Munich,True,2024-05-11 00:00:00
+999,Paweł,Majewska,customer999@example.com,+48500000999,United States,Houston,True,2024-06-19 00:00:00
+1000,Emma,Miller,customer1000@example.com,+48500001000,Poland,Poznań,True,2024-10-04 00:00:00

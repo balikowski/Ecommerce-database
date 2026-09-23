@@ -1,0 +1,11 @@
+shipment_method_id,shipment_method_name,pred_delivery_days
+1,Paczkomat InPost,1
+2,Kurier InPost,1
+3,Kurier DPD,1
+4,DPD Pickup / Żabka,2
+5,Kurier DHL,1
+6,DHL POP / Orlen Paczka,2
+7,Pocztex - Poczta Polska,3
+8,Kurier Express (Same Day),0
+9,Dostawa Gabarytowa (Paleta),4
+10,Odbiór Osobisty w Magazynie,0

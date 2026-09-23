@@ -6,18 +6,18 @@ CREATE TABLE shopflow.Customers (
 	first_name TEXT NOT NULL,
 	last_name TEXT NOT NULL,
 	email TEXT NOT NULL,
-	tel_num VARCHAR(11),
+	tel_num VARCHAR(20),
 	country TEXT NOT NULL,
 	city TEXT NOT NULL,
 	is_active BOOLEAN DEFAULT TRUE,
-	created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
+	created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL
 );
 
 -- Orders
 CREATE TABLE shopflow.Orders (
 	order_id BIGINT PRIMARY KEY,
 	customer_id BIGINT NOT NULL,
-	order_ts TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
+	order_ts TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL,
 	total_amount NUMERIC(8,2) NOT NULL,
 	discount_code_id BIGINT DEFAULT NULL
 );
@@ -43,7 +43,7 @@ CREATE TABLE shopflow.Discount_codes (
 	code VARCHAR(10) NOT NULL,
 	percent_discount INT NOT NULL,
 	valid_from TIMESTAMPTZ NOT NULL,
-	valid_to TIMESTAMPTZ
+	valid_to TIMESTAMPTZ DEFAULT NULL
 );
 
 -- Payment_methods
@@ -58,14 +58,14 @@ CREATE TABLE shopflow.Payment_results (
 	payment_result_name TEXT NOT NULL
 );
 
--- Payment_attemps 
-CREATE TABLE shopflow.Payment_attemps (
+-- Payment_attempts 
+CREATE TABLE shopflow.Payment_attempts (
 	payment_attempt_id BIGINT PRIMARY KEY,
 	payment_method_id BIGINT NOT NULL,
 	payment_result_id BIGINT NOT NULL,
 	order_id BIGINT NOT NULL,
-	amount NUMERIC(8,2),
-	payment_attempt_ts TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
+	amount NUMERIC(8,2) NOT NULL,
+	payment_attempt_ts TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP NOT NULL
 );
 
 -- Warehouses
@@ -111,7 +111,7 @@ CREATE TABLE shopflow.Price_history (
 	product_id BIGINT NOT NULL,
 	amount NUMERIC(8,2) NOT NULL,
 	valid_from TIMESTAMPTZ NOT NULL,
-	valid_to TIMESTAMP
+	valid_to TIMESTAMPTZ DEFAULT NULL
 );
 
 -- Categories
@@ -146,7 +146,7 @@ CREATE TABLE shopflow.Shipment_status_history (
 	shipment_id BIGINT NOT NULL,
 	shipment_status_id BIGINT NOT NULL,
 	status_from TIMESTAMPTZ NOT NULL,
-	status_to TIMESTAMPTZ
+	status_to TIMESTAMPTZ DEFAULT NULL
 );
 
 
